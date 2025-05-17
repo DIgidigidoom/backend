@@ -1,21 +1,22 @@
-import {dbService} from '../../services/db.service.js'
-import {logger} from '../../services/logger.service.js'
-import {reviewService} from '../review/review.service.js'
+import { dbService } from '../../services/db.service.js'
+import { logger } from '../../services/logger.service.js'
+import { reviewService } from '../review/review.service.js'
 import { ObjectId } from 'mongodb'
 
 export const userService = {
-	add, // Create (Signup)
-	getById, // Read (Profile page)
-	update, // Update (Edit profile)
-	remove, // Delete (remove user)
-	query, // List (of users)
-	getByUsername, // Used for Login
+    add, // Create (Signup)
+    getById, // Read (Profile page)
+    update, // Update (Edit profile)
+    remove, // Delete (remove user)
+    query, // List (of users)
+    getByUsername, // Used for Login
+    toggleLikedSong
 }
 
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
@@ -35,7 +36,7 @@ async function getById(userId) {
     try {
         var criteria = { _id: ObjectId.createFromHexString(userId) }
 
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         const user = await collection.findOne(criteria)
         delete user.password
         console.log(user)
@@ -43,12 +44,12 @@ async function getById(userId) {
         criteria = { byUserId: userId }
 
         user.givenReviews = await reviewService.query(criteria)
-        
+
         user.givenReviews = user.givenReviews.map(review => {
             delete review.byUser
             return review
         })
-        
+
         return user
     } catch (err) {
         logger.error(`while finding user by id: ${userId}`, err)
@@ -57,21 +58,21 @@ async function getById(userId) {
 }
 
 async function getByUsername(username) {
-	try {
-		const collection = await dbService.getCollection('user')
-		const user = await collection.findOne({ username })
-		return user
-	} catch (err) {
-		logger.error(`while finding user by username: ${username}`, err)
-		throw err
-	}
+    try {
+        const collection = await dbService.getCollection('users')
+        const user = await collection.findOne({ username })
+        return user
+    } catch (err) {
+        logger.error(`while finding user by username: ${username}`, err)
+        throw err
+    }
 }
 
 async function remove(userId) {
     try {
         const criteria = { _id: ObjectId.createFromHexString(userId) }
 
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         await collection.deleteOne(criteria)
     } catch (err) {
         logger.error(`cannot remove user ${userId}`, err)
@@ -85,9 +86,9 @@ async function update(user) {
         const userToSave = {
             _id: ObjectId.createFromHexString(user._id), // needed for the returnd obj
             fullname: user.fullname,
-            score: user.score,
+
         }
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
         return userToSave
     } catch (err) {
@@ -97,40 +98,68 @@ async function update(user) {
 }
 
 async function add(user) {
-	try {
-		// peek only updatable fields!
-		const userToAdd = {
-			username: user.username,
-			password: user.password,
-			fullname: user.fullname,
-			imgUrl: user.imgUrl,
-			isAdmin: user.isAdmin,
-			score: 100,
-		}
-		const collection = await dbService.getCollection('user')
-		await collection.insertOne(userToAdd)
-		return userToAdd
-	} catch (err) {
-		logger.error('cannot add user', err)
-		throw err
-	}
+    try {
+        // peek only updatable fields!
+        const userToAdd = {
+            username: user.username,
+            password: user.password,
+            fullname: user.fullname,
+            imgUrl: user.imgUrl,
+            isAdmin: user.isAdmin,
+            likedSongsIds: Array.isArray(user.likedSongsIds) ? user.likedSongsIds : [] // ✅ add this line
+        }
+        const collection = await dbService.getCollection('users')
+        await collection.insertOne(userToAdd)
+        return userToAdd
+    } catch (err) {
+        logger.error('cannot add user', err)
+        throw err
+    }
 }
 
 function _buildCriteria(filterBy) {
-	const criteria = {}
-	if (filterBy.txt) {
-		const txtCriteria = { $regex: filterBy.txt, $options: 'i' }
-		criteria.$or = [
-			{
-				username: txtCriteria,
-			},
-			{
-				fullname: txtCriteria,
-			},
-		]
-	}
-	if (filterBy.minBalance) {
-		criteria.score = { $gte: filterBy.minBalance }
-	}
-	return criteria
+    const criteria = {}
+    if (filterBy.txt) {
+        const txtCriteria = { $regex: filterBy.txt, $options: 'i' }
+        criteria.$or = [
+            {
+                username: txtCriteria,
+            },
+            {
+                fullname: txtCriteria,
+            },
+        ]
+    }
+
+    return criteria
+}
+
+export async function toggleLikedSong(userId, songId) {
+  try {
+    const collection = await dbService.getCollection('users')
+    const user = await collection.findOne({ _id: new ObjectId(userId) })
+    if (!user) throw new Error('User not found')
+
+    const likedSongsIds = user.likedSongsIds || []
+
+    const idx = likedSongsIds.indexOf(songId)
+    if (idx !== -1) {
+      likedSongsIds.splice(idx, 1) // Unlike
+    } else {
+      likedSongsIds.push(songId) // Like
+    }
+
+    await collection.updateOne(
+      { _id: new ObjectId(userId) },
+      { $set: { likedSongsIds } }
+    )
+
+    user.likedSongsIds = likedSongsIds
+    user._id = user._id.toString() // Ensure it's serialized
+
+    return user
+  } catch (err) {
+    console.error('❌ Failed to toggle liked song', err)
+    throw err
+  }
 }

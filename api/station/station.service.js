@@ -10,6 +10,8 @@ export const stationService = {
   update,
   addSong,
   removeSong,
+  addToLikedSongs,
+  removeFromLikedSongs
 }
 
 async function query(filterBy = {}) {
@@ -34,12 +36,17 @@ async function getById(stationId) {
   }
 }
 
-async function remove(stationId) {
+export async function remove(stationId) {
   try {
     const collection = await dbService.getCollection('stations')
-    await collection.deleteOne({ _id: new ObjectId(stationId) })
+
+    const criteria = isValidObjectId(stationId)
+      ? { _id: new ObjectId(stationId) }
+      : { _id: stationId } // fallback for legacy string IDs
+
+    await collection.deleteOne(criteria)
   } catch (err) {
-    console.error(`Cannot remove station ${stationId}`, err)
+    console.error(`❌ Cannot remove station ${stationId}`, err)
     throw err
   }
 }
@@ -71,32 +78,27 @@ async function update(station) {
   }
 }
 
-export async function addSong(stationId, song) {
+async function addSong(stationId, song) {
   try {
     const collection = await dbService.getCollection('stations')
-    console.log('Fetching station:', stationId)
 
-    const station = await collection.findOne({ _id: new ObjectId(stationId) })
+    const criteria = isValidObjectId(stationId)
+      ? { _id: new ObjectId(stationId) }
+      : { _id: stationId }
+
+    const station = await collection.findOne(criteria)
     if (!station) throw new Error('Station not found')
 
-    console.log('Station found:', station.name)
+    // Prevent duplicates
+    const alreadyExists = station.songs?.some(s => s.id === song.id)
+    if (alreadyExists) throw new Error('Song already in station')
 
-    const isAlreadyAdded = station.songs?.some(s => s.id === song.id)
-    if (isAlreadyAdded) throw new Error('Song already exists in station')
+    station.songs = [...(station.songs || []), song]
 
-    if (!station.songs) station.songs = []
-    station.songs.push(song)
-
-    console.log('Updated songs:', station.songs.length)
-
-    await collection.updateOne(
-      { _id: new ObjectId(stationId) },
-      { $set: { songs: station.songs } }
-    )
-
+    await collection.updateOne(criteria, { $set: { songs: station.songs } })
     return station
   } catch (err) {
-    console.error('❌ Failed to add song to station:', err.message)
+    console.error('❌ Failed to add song to station', err)
     throw err
   }
 }
@@ -107,17 +109,84 @@ export async function removeSong(stationId, songId) {
     const station = await collection.findOne({ _id: new ObjectId(stationId) })
     if (!station) throw new Error('Station not found')
 
+    console.log('🟡 stationId:', stationId)
+    console.log('🟡 songId to remove:', songId)
+    console.log('🟡 songs before:', station.songs?.map(song => song.id))
+
     // Remove the song
-    station.songs = station.songs?.filter(song => song.id !== songId) || []
+    const filteredSongs = station.songs?.filter(song => song.id !== songId) || []
+
+    console.log('🟢 songs after:', filteredSongs.map(song => song.id))
 
     await collection.updateOne(
       { _id: new ObjectId(stationId) },
-      { $set: { songs: station.songs } }
+      { $set: { songs: filteredSongs } }
     )
 
-    return station
+    const updatedStation = await collection.findOne({ _id: new ObjectId(stationId) })
+    return updatedStation
   } catch (err) {
     console.error('❌ Failed to remove song from station', err)
     throw err
   }
+}
+
+function isValidObjectId(id) {
+  return typeof id === 'string' && id.length === 24 && /^[a-f\d]{24}$/i.test(id)
+}
+
+
+export async function addToLikedSongs(userId, userInfo, song) {
+  const collection = await dbService.getCollection('stations')
+
+  // 🧠 Find the user's Liked Songs station
+  let station = await collection.findOne({ isLikedSongs: true, 'createdBy._id': userId })
+
+  // 🛠 If not found, create it
+  if (!station) {
+    const newStation = {
+      name: 'Liked Songs',
+      type: 'likedSongs',
+      isLikedSongs: true,
+      tags: ['Personal'],
+      createdBy: userInfo,
+      likedByUsers: [],
+      songs: [],
+      msgs: [],
+    }
+    const res = await collection.insertOne(newStation)
+    station = { ...newStation, _id: res.insertedId }
+  }
+
+  
+  const alreadyExists = station.songs.some(s => s.id === song.id)
+  if (!alreadyExists) station.songs.push(song)
+
+  // 💾 Save to DB
+  await collection.updateOne(
+    { _id: new ObjectId(station._id) },
+    { $set: { songs: station.songs } }
+  )
+
+  return station
+}
+
+export async function removeFromLikedSongs(userId, songId) {
+  const collection = await dbService.getCollection('stations')
+
+  const station = await collection.findOne({
+    isLikedSongs: true,
+    'createdBy._id': userId
+  })
+
+  if (!station) throw new Error('Liked Songs station not found')
+
+  station.songs = station.songs.filter(song => song.id !== songId)
+
+  await collection.updateOne(
+    { _id: new ObjectId(station._id) },
+    { $set: { songs: station.songs } }
+  )
+
+  return station
 }
