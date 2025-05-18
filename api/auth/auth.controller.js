@@ -12,8 +12,8 @@ export async function login(req, res) {
 
 		res.cookie('loginToken', loginToken, {
 			httpOnly: true,
-			sameSite: 'Lax',  // ✅ 'Lax' is fine for most cases
-			secure: false     // ✅ set to false for HTTP dev environments
+			sameSite: 'Lax',  
+			secure: false    
 		})
 		res.json(user)
 	} catch (err) {

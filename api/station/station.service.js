@@ -139,31 +139,11 @@ function isValidObjectId(id) {
 export async function addToLikedSongs(userId, userInfo, song) {
   const collection = await dbService.getCollection('stations')
 
-  // 🧠 Find the user's Liked Songs station
-  // let station = await collection.findOne({ isLikedSongs: true, 'createdBy._id': userId })
   let station = await collection.findOne({ type: 'liked station', 'createdBy._id': userId })
 
-  // 🛠 If not found, create it
-  if (!station) {
-    const newStation = {
-      name: 'Liked Songs',
-      type: 'likedSongs',
-      isLikedSongs: true,
-      tags: ['Personal'],
-      createdBy: userInfo,
-      likedByUsers: [],
-      songs: [],
-      msgs: [],
-    }
-    const res = await collection.insertOne(newStation)
-    station = { ...newStation, _id: res.insertedId }
-  }
-
-  
   const alreadyExists = station.songs.some(s => s.id === song.id)
   if (!alreadyExists) station.songs.push(song)
 
-  // 💾 Save to DB
   await collection.updateOne(
     { _id: new ObjectId(station._id) },
     { $set: { songs: station.songs } }
@@ -176,7 +156,6 @@ export async function removeFromLikedSongs(userId, songId) {
   const collection = await dbService.getCollection('stations')
 
   const station = await collection.findOne({
-    // isLikedSongs: true,
     type: 'liked station',
     'createdBy._id': userId
   })
