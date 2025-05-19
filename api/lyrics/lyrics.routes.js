@@ -7,7 +7,7 @@ const router = express.Router()
 router.get('/', async (req, res) => {
     const AUDD_API_KEY = process.env.AUDD_API_KEY
     const { title, artist } = req.query
-    
+
     const rawQuery = `${artist} ${title}`
     const cleanedQuery = rawQuery
         .replace(/\(.*?\)|\[.*?\]|feat\..*/gi, '') // remove brackets & 'feat.'
@@ -22,15 +22,22 @@ router.get('/', async (req, res) => {
                 api_token: AUDD_API_KEY,
             }
         })
-       
+
 
         const result = response.data.result
+
         let lyrics = 'Lyrics not found.'
 
         if (Array.isArray(result) && result[0]?.lyrics) {
             lyrics = result[0].lyrics
         } else if (typeof result === 'object' && result?.lyrics) {
             lyrics = result.lyrics
+        }
+        if (lyrics !== 'Lyrics not found.') {
+            lyrics = lyrics
+                .replace(/\[(.*?)\]/g, '')     // remove [Intro], [Verse 2], etc.
+                .replace(/\n{2,}/g, '\n\n')    // optional: clean up extra newlines
+                .trim()
         }
 
         res.send({ lyrics })
