@@ -1,9 +1,12 @@
+import dotenv from 'dotenv'
+dotenv.config()
+console.log('✅ LOADED ENV:', process.env.AUDD_API_KEY)
 import http from 'http'
 import path from 'path'
 import cors from 'cors'
 import express from 'express'
 import cookieParser from 'cookie-parser'
-
+import lyricsRoutes from './api/lyrics/lyrics.routes.js'
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { reviewRoutes } from './api/review/review.routes.js'
@@ -32,13 +35,14 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
 }
-app.all('*all', setupAsyncLocalStorage)
+
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/review', reviewRoutes)
 app.use('/api/station', stationRoutes)
-
+app.use('/api/lyrics', lyricsRoutes)
+app.all('*all', setupAsyncLocalStorage)
 setupSocketAPI(server)
 
 // Make every unhandled server-side-route match index.html
