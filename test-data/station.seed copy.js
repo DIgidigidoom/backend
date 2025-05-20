@@ -166,10 +166,10 @@
         "duration": 355
       },
       {
-        "id": "pAgnJDJN4VA",
+        "id": "1w7OgIMMRc4",
         "title": "Sweet Child O' Mine",
-        "url": "pAgnJDJN4VA",
-        "imgUrl": "https://i.ytimg.com/vi/pAgnJDJN4VA/mqdefault.jpg",
+        "url": "1w7OgIMMRc4",
+        "imgUrl": "https://i.ytimg.com/vi/1w7OgIMMRc4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -178,10 +178,10 @@
         "duration": 356
       },
       {
-        "id": "eBG7P-K-r1Y",
+        "id": "hTWKbfoikeg",
         "title": "Smells Like Teen Spirit",
-        "url": "eBG7P-K-r1Y",
-        "imgUrl": "https://i.ytimg.com/vi/eBG7P-K-r1Y/mqdefault.jpg",
+        "url": "hTWKbfoikeg",
+        "imgUrl": "https://i.ytimg.com/vi/hTWKbfoikeg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -190,10 +190,10 @@
         "duration": 301
       },
       {
-        "id": "xbhCPt6PZIU",
+        "id": "dLl4PZtxia8",
         "title": "Hotel California",
-        "url": "xbhCPt6PZIU",
-        "imgUrl": "https://i.ytimg.com/vi/xbhCPt6PZIU/mqdefault.jpg",
+        "url": "dLl4PZtxia8",
+        "imgUrl": "https://i.ytimg.com/vi/dLl4PZtxia8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -202,10 +202,10 @@
         "duration": 390
       },
       {
-        "id": "l482T0yNkeo",
+        "id": "rrim6_9VSeM",
         "title": "Back In Black",
-        "url": "l482T0yNkeo",
-        "imgUrl": "https://i.ytimg.com/vi/l482T0yNkeo/mqdefault.jpg",
+        "url": "rrim6_9VSeM",
+        "imgUrl": "https://i.ytimg.com/vi/rrim6_9VSeM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -214,10 +214,10 @@
         "duration": 255
       },
       {
-        "id": "2cZ_EFAmj08",
+        "id": "O4irXQhgMqg",
         "title": "Paint It Black",
-        "url": "2cZ_EFAmj08",
-        "imgUrl": "https://i.ytimg.com/vi/2cZ_EFAmj08/mqdefault.jpg",
+        "url": "O4irXQhgMqg",
+        "imgUrl": "https://i.ytimg.com/vi/O4irXQhgMqg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -226,10 +226,10 @@
         "duration": 200
       },
       {
-        "id": "tAGnKpE4NCI",
+        "id": "CD-E-LDc384",
         "title": "Enter Sandman",
-        "url": "tAGnKpE4NCI",
-        "imgUrl": "https://i.ytimg.com/vi/tAGnKpE4NCI/mqdefault.jpg",
+        "url": "CD-E-LDc384",
+        "imgUrl": "https://i.ytimg.com/vi/CD-E-LDc384/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -250,10 +250,10 @@
         "duration": 267
       },
       {
-        "id": "WANNqr-vcx0",
+        "id": "Wu4_zVxmufY",
         "title": "Born to Run",
-        "url": "WANNqr-vcx0",
-        "imgUrl": "https://i.ytimg.com/vi/WANNqr-vcx0/mqdefault.jpg",
+        "url": "Wu4_zVxmufY",
+        "imgUrl": "https://i.ytimg.com/vi/Wu4_zVxmufY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -274,10 +274,10 @@
         "duration": 537
       },
       {
-        "id": "Y6ljFaKRTrI",
+        "id": "1k8craCGpgs",
         "title": "Don't Stop Believin'",
-        "url": "Y6ljFaKRTrI",
-        "imgUrl": "https://i.ytimg.com/vi/Y6ljFaKRTrI/mqdefault.jpg",
+        "url": "1k8craCGpgs",
+        "imgUrl": "https://i.ytimg.com/vi/1k8craCGpgs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -312,10 +312,10 @@
         "duration": 245
       },
       {
-        "id": "AJtDXIazrMo",
+        "id": "PsO6ZnUZI0g",
         "title": "Stronger",
-        "url": "AJtDXIazrMo",
-        "imgUrl": "https://i.ytimg.com/vi/AJtDXIazrMo/mqdefault.jpg",
+        "url": "PsO6ZnUZI0g",
+        "imgUrl": "https://i.ytimg.com/vi/PsO6ZnUZI0g/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -324,10 +324,10 @@
         "duration": 311
       },
       {
-        "id": "gCYcHz2k5x0",
+        "id": "HMUDVMiITOU",
         "title": "Turn Down for What",
-        "url": "gCYcHz2k5x0",
-        "imgUrl": "https://i.ytimg.com/vi/gCYcHz2k5x0/mqdefault.jpg",
+        "url": "HMUDVMiITOU",
+        "imgUrl": "https://i.ytimg.com/vi/HMUDVMiITOU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -336,10 +336,10 @@
         "duration": 213
       },
       {
-        "id": "bd2B6SjMh_w",
+        "id": "xFYQQPAOz7Y",
         "title": "Lose Yourself",
-        "url": "bd2B6SjMh_w",
-        "imgUrl": "https://i.ytimg.com/vi/bd2B6SjMh_w/mqdefault.jpg",
+        "url": "xFYQQPAOz7Y",
+        "imgUrl": "https://i.ytimg.com/vi/xFYQQPAOz7Y/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -348,10 +348,10 @@
         "duration": 326
       },
       {
-        "id": "eW2qlKa6oHw",
+        "id": "VG3JsmOmDqw",
         "title": "Can't Hold Us",
-        "url": "eW2qlKa6oHw",
-        "imgUrl": "https://i.ytimg.com/vi/eW2qlKa6oHw/mqdefault.jpg",
+        "url": "VG3JsmOmDqw",
+        "imgUrl": "https://i.ytimg.com/vi/VG3JsmOmDqw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -372,10 +372,10 @@
         "duration": 312
       },
       {
-        "id": "lp-EO5I60KA",
+        "id": "OPf0YbXqDm0",
         "title": "Uptown Funk",
-        "url": "lp-EO5I60KA",
-        "imgUrl": "https://i.ytimg.com/vi/lp-EO5I60KA/mqdefault.jpg",
+        "url": "OPf0YbXqDm0",
+        "imgUrl": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -384,10 +384,10 @@
         "duration": 269
       },
       {
-        "id": "pt8VYOfr8To",
+        "id": "9ujy-YtDgWQ",
         "title": "On The Floor",
-        "url": "pt8VYOfr8To",
-        "imgUrl": "https://i.ytimg.com/vi/pt8VYOfr8To/mqdefault.jpg",
+        "url": "9ujy-YtDgWQ",
+        "imgUrl": "https://i.ytimg.com/vi/9ujy-YtDgWQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -408,10 +408,10 @@
         "duration": 242
       },
       {
-        "id": "hHUbLv4ThOo",
+        "id": "L53gjP-TtGE",
         "title": "POWER",
-        "url": "hHUbLv4ThOo",
-        "imgUrl": "https://i.ytimg.com/vi/hHUbLv4ThOo/mqdefault.jpg",
+        "url": "L53gjP-TtGE",
+        "imgUrl": "https://i.ytimg.com/vi/L53gjP-TtGE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -420,10 +420,10 @@
         "duration": 292
       },
       {
-        "id": "vCadcBR95oU",
+        "id": "JRfuAukYTKg",
         "title": "Titanium",
-        "url": "vCadcBR95oU",
-        "imgUrl": "https://i.ytimg.com/vi/vCadcBR95oU/mqdefault.jpg",
+        "url": "JRfuAukYTKg",
+        "imgUrl": "https://i.ytimg.com/vi/JRfuAukYTKg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -432,10 +432,10 @@
         "duration": 245
       },
       {
-        "id": "NGLxoKOvzu4",
-        "title": "Levitating",
-        "url": "NGLxoKOvzu4",
-        "imgUrl": "https://i.ytimg.com/vi/NGLxoKOvzu4/mqdefault.jpg",
+        "id": "YaOlxgJHif0",
+        "title": "one kiss",
+        "url": "YaOlxgJHif0",
+        "imgUrl": "https://i.ytimg.com/vi/YaOlxgJHif0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -457,10 +457,10 @@
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
-        "id": "hHW1oY26kxQ",
-        "title": "lucky day",
-        "url": "hHW1oY26kxQ",
-        "imgUrl": "https://i.ytimg.com/vi/hHW1oY26kxQ/mqdefault.jpg",
+        "id": "S5sL7Ni6xoo",
+        "title": "lucky star",
+        "url": "S5sL7Ni6xoo",
+        "imgUrl": "https://i.ytimg.com/vi/S5sL7Ni6xoo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -469,10 +469,10 @@
         "duration": 178
       },
       {
-        "id": "5qap5aO4i9A",
+        "id": "3fRqCnlHtHM",
         "title": "dreamscape",
-        "url": "5qap5aO4i9A",
-        "imgUrl": "https://i.ytimg.com/vi/5qap5aO4i9A/mqdefault.jpg",
+        "url": "3fRqCnlHtHM",
+        "imgUrl": "https://i.ytimg.com/vi/3fRqCnlHtHM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -999,18 +999,6 @@
         "duration": 239
       },
       {
-        "id": "IcrbM1l_BoI",
-        "title": "Stay",
-        "url": "IcrbM1l_BoI",
-        "imgUrl": "https://i.ytimg.com/vi/IcrbM1l_BoI/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Zedd & Alessia Cara",
-        "album": "Stay",
-        "duration": 211
-      },
-      {
         "id": "QzvGKas5RsU",
         "title": "Turn Up the Speakers",
         "url": "QzvGKas5RsU",
@@ -1084,10 +1072,10 @@
         "duration": 167
       },
       {
-        "id": "QYh6mYIJG2Y",
+        "id": "tQ0yjYUFKAE",
         "title": "Peaches",
-        "url": "QYh6mYIJG2Y",
-        "imgUrl": "https://i.ytimg.com/vi/QYh6mYIJG2Y/mqdefault.jpg",
+        "url": "tQ0yjYUFKAE",
+        "imgUrl": "https://i.ytimg.com/vi/tQ0yjYUFKAE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007371,
@@ -1096,10 +1084,10 @@
         "duration": 198
       },
       {
-        "id": "CuklIb9d3fI",
+        "id": "E07s5ZYygMg",
         "title": "Watermelon Sugar",
-        "url": "CuklIb9d3fI",
-        "imgUrl": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+        "url": "E07s5ZYygMg",
+        "imgUrl": "https://i.ytimg.com/vi/E07s5ZYygMg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007371,
@@ -1108,10 +1096,10 @@
         "duration": 174
       },
       {
-        "id": "A9hcJgtnm6Q",
+        "id": "oygrmJFKYZY",
         "title": "Don't Start Now",
-        "url": "A9hcJgtnm6Q",
-        "imgUrl": "https://i.ytimg.com/vi/A9hcJgtnm6Q/mqdefault.jpg",
+        "url": "oygrmJFKYZY",
+        "imgUrl": "https://i.ytimg.com/vi/oygrmJFKYZY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007371,
@@ -1475,10 +1463,10 @@
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
-        "id": "XkqvH5v-jtU",
+        "id": "tzVJPgCn-Z8",
         "title": "Kashmir",
-        "url": "XkqvH5v-jtU",
-        "imgUrl": "https://i.ytimg.com/vi/XkqvH5v-jtU/mqdefault.jpg",
+        "url": "tzVJPgCn-Z8",
+        "imgUrl": "https://i.ytimg.com/vi/tzVJPgCn-Z8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1535,10 +1523,10 @@
         "duration": 296
       },
       {
-        "id": "c6h2Ku9vnvU",
+        "id": "w772GXG5LnE",
         "title": "Dazed and Confused",
-        "url": "c6h2Ku9vnvU",
-        "imgUrl": "https://i.ytimg.com/vi/c6h2Ku9vnvU/mqdefault.jpg",
+        "url": "w772GXG5LnE",
+        "imgUrl": "https://i.ytimg.com/vi/w772GXG5LnE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1547,10 +1535,10 @@
         "duration": 388
       },
       {
-        "id": "f0v3dS3Dj60",
+        "id": "LzGBQerkvWs",
         "title": "Ramble On",
-        "url": "f0v3dS3Dj60",
-        "imgUrl": "https://i.ytimg.com/vi/f0v3dS3Dj60/mqdefault.jpg",
+        "url": "LzGBQerkvWs",
+        "imgUrl": "https://i.ytimg.com/vi/LzGBQerkvWs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1559,10 +1547,10 @@
         "duration": 268
       },
       {
-        "id": "6iUnzv9sXkE",
+        "id": "vcIem-L398w",
         "title": "Since I've Been Loving You",
-        "url": "6iUnzv9sXkE",
-        "imgUrl": "https://i.ytimg.com/vi/6iUnzv9sXkE/mqdefault.jpg",
+        "url": "vcIem-L398w",
+        "imgUrl": "https://i.ytimg.com/vi/vcIem-L398w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1583,10 +1571,10 @@
         "duration": 213
       },
       {
-        "id": "c6h0bBPj4dY",
+        "id": "oqAmnEKlIZw",
         "title": "The Ocean",
-        "url": "c6h0bBPj4dY",
-        "imgUrl": "https://i.ytimg.com/vi/c6h0bBPj4dY/mqdefault.jpg",
+        "url": "oqAmnEKlIZw",
+        "imgUrl": "https://i.ytimg.com/vi/oqAmnEKlIZw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1607,10 +1595,10 @@
         "duration": 165
       },
       {
-        "id": "rNQRfBAzGZg",
+        "id": "NrUIJY_Xu2s",
         "title": "Going to California",
-        "url": "rNQRfBAzGZg",
-        "imgUrl": "https://i.ytimg.com/vi/rNQRfBAzGZg/mqdefault.jpg",
+        "url": "NrUIJY_Xu2s",
+        "imgUrl": "https://i.ytimg.com/vi/NrUIJY_Xu2s/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1619,10 +1607,10 @@
         "duration": 223
       },
       {
-        "id": "i0sYV5s9QJg",
+        "id": "zX_wwlIZ6ko",
         "title": "Babe I'm Gonna Leave You",
-        "url": "i0sYV5s9QJg",
-        "imgUrl": "https://i.ytimg.com/vi/i0sYV5s9QJg/mqdefault.jpg",
+        "url": "zX_wwlIZ6ko",
+        "imgUrl": "https://i.ytimg.com/vi/zX_wwlIZ6ko/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1654,10 +1642,10 @@
         "duration": 384
       },
       {
-        "id": "9jZ-yH6gzjU",
+        "id": "cWGE9Gi0bB0",
         "title": "Shine On You Crazy Diamond",
-        "url": "9jZ-yH6gzjU",
-        "imgUrl": "https://i.ytimg.com/vi/9jZ-yH6gzjU/mqdefault.jpg",
+        "url": "cWGE9Gi0bB0",
+        "imgUrl": "https://i.ytimg.com/vi/cWGE9Gi0bB0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1702,10 +1690,10 @@
         "duration": 382
       },
       {
-        "id": "DVQ3-Xe_suY",
+        "id": "HrxX9TBj2zY",
         "title": "Another Brick in the Wall, Pt. 2",
-        "url": "DVQ3-Xe_suY",
-        "imgUrl": "https://i.ytimg.com/vi/DVQ3-Xe_suY/mqdefault.jpg",
+        "url": "HrxX9TBj2zY",
+        "imgUrl": "https://i.ytimg.com/vi/HrxX9TBj2zY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1726,10 +1714,10 @@
         "duration": 280
       },
       {
-        "id": "v0ZY7P5wBoo",
+        "id": "QFdkM40KOhE",
         "title": "Brain Damage",
-        "url": "v0ZY7P5wBoo",
-        "imgUrl": "https://i.ytimg.com/vi/v0ZY7P5wBoo/mqdefault.jpg",
+        "url": "QFdkM40KOhE",
+        "imgUrl": "https://i.ytimg.com/vi/QFdkM40KOhE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1774,10 +1762,10 @@
         "duration": 285
       },
       {
-        "id": "iu-rLA4POkI",
+        "id": "OcDiOUQBFd4",
         "title": "Echoes",
-        "url": "iu-rLA4POkI",
-        "imgUrl": "https://i.ytimg.com/vi/iu-rLA4POkI/mqdefault.jpg",
+        "url": "OcDiOUQBFd4",
+        "imgUrl": "https://i.ytimg.com/vi/OcDiOUQBFd4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1786,10 +1774,10 @@
         "duration": 1381
       },
       {
-        "id": "pM8_HMwX2xQ",
+        "id": "lt-udg9zQSE",
         "title": "Welcome to the Machine",
-        "url": "pM8_HMwX2xQ",
-        "imgUrl": "https://i.ytimg.com/vi/pM8_HMwX2xQ/mqdefault.jpg",
+        "url": "lt-udg9zQSE",
+        "imgUrl": "https://i.ytimg.com/vi/lt-udg9zQSE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417501,
@@ -1857,10 +1845,10 @@
         "duration": 304
       },
       {
-        "id": "dt8VnJjXef0",
+        "id": "Nw5AMCEiZms",
         "title": "Map of the Problematique",
-        "url": "dt8VnJjXef0",
-        "imgUrl": "https://i.ytimg.com/vi/dt8VnJjXef0/mqdefault.jpg",
+        "url": "Nw5AMCEiZms",
+        "imgUrl": "https://i.ytimg.com/vi/Nw5AMCEiZms/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1869,10 +1857,10 @@
         "duration": 292
       },
       {
-        "id": "qtOv8PXm8iI",
+        "id": "Xsp3_a-PMTw",
         "title": "Supermassive Black Hole",
-        "url": "qtOv8PXm8iI",
-        "imgUrl": "https://i.ytimg.com/vi/qtOv8PXm8iI/mqdefault.jpg",
+        "url": "Xsp3_a-PMTw",
+        "imgUrl": "https://i.ytimg.com/vi/Xsp3_a-PMTw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1893,10 +1881,10 @@
         "duration": 213
       },
       {
-        "id": "zkBb1UWe4pI",
+        "id": "Pgum6OT_VH8",
         "title": "Starlight",
-        "url": "zkBb1UWe4pI",
-        "imgUrl": "https://i.ytimg.com/vi/zkBb1UWe4pI/mqdefault.jpg",
+        "url": "Pgum6OT_VH8",
+        "imgUrl": "https://i.ytimg.com/vi/Pgum6OT_VH8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1905,10 +1893,10 @@
         "duration": 236
       },
       {
-        "id": "EF_qg3d9VbM",
+        "id": "oZBZQmAkh48",
         "title": "Psycho",
-        "url": "EF_qg3d9VbM",
-        "imgUrl": "https://i.ytimg.com/vi/EF_qg3d9VbM/mqdefault.jpg",
+        "url": "oZBZQmAkh48",
+        "imgUrl": "https://i.ytimg.com/vi/oZBZQmAkh48/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1917,10 +1905,10 @@
         "duration": 303
       },
       {
-        "id": "0bcGfTCA6bM",
+        "id": "I5sJhSNUkwQ",
         "title": "Dead Inside",
-        "url": "0bcGfTCA6bM",
-        "imgUrl": "https://i.ytimg.com/vi/0bcGfTCA6bM/mqdefault.jpg",
+        "url": "I5sJhSNUkwQ",
+        "imgUrl": "https://i.ytimg.com/vi/I5sJhSNUkwQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1929,10 +1917,10 @@
         "duration": 260
       },
       {
-        "id": "1mqqHq-f1K8",
+        "id": "TPE9uSFFxrI",
         "title": "Resistance",
-        "url": "1mqqHq-f1K8",
-        "imgUrl": "https://i.ytimg.com/vi/1mqqHq-f1K8/mqdefault.jpg",
+        "url": "TPE9uSFFxrI",
+        "imgUrl": "https://i.ytimg.com/vi/TPE9uSFFxrI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -1941,30 +1929,17 @@
         "duration": 317
       },
       {
-        "id": "yoXU_cD3P4k",
+        "id": "47P6CI7V8gM",
         "title": "Undisclosed Desires",
-        "url": "yoXU_cD3P4k",
-        "imgUrl": "https://i.ytimg.com/vi/yoXU_cD3P4k/mqdefault.jpg",
+        "url": "47P6CI7V8gM",
+        "imgUrl": "https://i.ytimg.com/vi/47P6CI7V8gM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
         "artist": "Muse",
         "album": "The Resistance",
         "duration": 223
-      },
-      {
-        "id": "mjvGjUovxHE",
-        "title": "The Handler",
-        "url": "mjvGjUovxHE",
-        "imgUrl": "https://i.ytimg.com/vi/mjvGjUovxHE/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Muse",
-        "album": "Drones",
-        "duration": 262
       }
-
     ],
     "msgs": [{ "id": "1b04cc5650d04", "from": "{mini-user}", "txt": "Muse rocks!" }]
   },
@@ -2000,10 +1975,10 @@
         "duration": 200
       },
       {
-        "id": "KviAVKpfrbA",
+        "id": "hGRqnNEOpe0",
         "title": "Little Sister",
-        "url": "KviAVKpfrbA",
-        "imgUrl": "https://i.ytimg.com/vi/KviAVKpfrbA/mqdefault.jpg",
+        "url": "hGRqnNEOpe0",
+        "imgUrl": "https://i.ytimg.com/vi/hGRqnNEOpe0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
@@ -2024,52 +1999,16 @@
         "duration": 217
       },
       {
-        "id": "eVGyJ3Jlc5c",
+        "id": "g5GrSPUAj4E",
         "title": "First It Giveth",
-        "url": "eVGyJ3Jlc5c",
-        "imgUrl": "https://i.ytimg.com/vi/eVGyJ3Jlc5c/mqdefault.jpg",
+        "url": "g5GrSPUAj4E",
+        "imgUrl": "https://i.ytimg.com/vi/g5GrSPUAj4E/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210417502,
         "artist": "Queens of the Stone Age",
         "album": "Songs for the Deaf",
         "duration": 205
-      },
-      {
-        "id": "zM_YwclL5xk",
-        "title": "Make It Wit Chu",
-        "url": "zM_YwclL5xk",
-        "imgUrl": "https://i.ytimg.com/vi/zM_YwclL5xk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "Era Vulgaris",
-        "duration": 270
-      },
-      {
-        "id": "bAXPUN2z2rs",
-        "title": "My God Is the Sun",
-        "url": "bAXPUN2z2rs",
-        "imgUrl": "https://i.ytimg.com/vi/bAXPUN2z2rs/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "...Like Clockwork",
-        "duration": 218
-      },
-      {
-        "id": "tzK6nzt_pJY",
-        "title": "I Sat by the Ocean",
-        "url": "tzK6nzt_pJY",
-        "imgUrl": "https://i.ytimg.com/vi/tzK6nzt_pJY/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "...Like Clockwork",
-        "duration": 208
       },
       {
         "id": "e4Ao-iNPPUc",
@@ -2084,30 +2023,6 @@
         "duration": 202
       },
       {
-        "id": "qKZC5se_420",
-        "title": "Smooth Sailing",
-        "url": "qKZC5se_420",
-        "imgUrl": "https://i.ytimg.com/vi/qKZC5se_420/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "...Like Clockwork",
-        "duration": 273
-      },
-      {
-        "id": "Blqdbp5DTus",
-        "title": "You Think I Ain’t Worth a Dollar, But I Feel Like a Millionaire",
-        "url": "Blqdbp5DTus",
-        "imgUrl": "https://i.ytimg.com/vi/Blqdbp5DTus/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "Songs for the Deaf",
-        "duration": 232
-      },
-      {
         "id": "Uds7g3M-4lQ",
         "title": "3's & 7's",
         "url": "Uds7g3M-4lQ",
@@ -2118,18 +2033,6 @@
         "artist": "Queens of the Stone Age",
         "album": "Era Vulgaris",
         "duration": 214
-      },
-      {
-        "id": "6UJp-9Tq39E",
-        "title": "If I Had a Tail",
-        "url": "6UJp-9Tq39E",
-        "imgUrl": "https://i.ytimg.com/vi/6UJp-9Tq39E/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417502,
-        "artist": "Queens of the Stone Age",
-        "album": "...Like Clockwork",
-        "duration": 273
       }
 
     ],
@@ -2137,86 +2040,20 @@
   },
   {
     "type": "album",
-    "name": "Biffy Clyro Essentials",
-    "tags": ["Rock", "Essential", "Biffy Clyro"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "biffyclyro_jcwnzm" },
-    "likedByUsers": ["{minimal-user}", "{minimal-user}"],
-    "songs": [
-      {
-        "id": "m1tZgPZf1fw",
-        "title": "Many of Horror",
-        "url": "m1tZgPZf1fw",
-        "imgUrl": "https://i.ytimg.com/vi/m1tZgPZf1fw/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417503,
-        "artist": "Biffy Clyro",
-        "album": "Only Revolutions",
-        "duration": 274
-      },
-      {
-        "id": "WgZJ_Wk1Uk4",
-        "title": "Mountains",
-        "url": "WgZJ_Wk1Uk4",
-        "imgUrl": "https://i.ytimg.com/vi/WgZJ_Wk1Uk4/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417503,
-        "artist": "Biffy Clyro",
-        "album": "Only Revolutions",
-        "duration": 222
-      },
-      {
-        "id": "Tm8LGxTLtQk",
-        "title": "Black Chandelier",
-        "url": "Tm8LGxTLtQk",
-        "imgUrl": "https://i.ytimg.com/vi/Tm8LGxTLtQk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417503,
-        "artist": "Biffy Clyro",
-        "album": "Opposites",
-        "duration": 258
-      },
-      {
-        "id": "ZUyDCuq8yqM",
-        "title": "Bubbles",
-        "url": "ZUyDCuq8yqM",
-        "imgUrl": "https://i.ytimg.com/vi/ZUyDCuq8yqM/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417503,
-        "artist": "Biffy Clyro",
-        "album": "Only Revolutions",
-        "duration": 244
-      },
-      {
-        "id": "oOVMdwfQZmk",
-        "title": "Biblical",
-        "url": "oOVMdwfQZmk",
-        "imgUrl": "https://i.ytimg.com/vi/oOVMdwfQZmk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1747210417503,
-        "artist": "Biffy Clyro",
-        "album": "Opposites",
-        "duration": 241
-      }
-    ],
-    "msgs": [{ "id": "cade04270c214", "from": "{mini-user}", "txt": "Biffy Clyro rocks!" }]
-  },
-  {
-    "type": "album",
     "name": "Rihanna Essentials",
-    "tags": ["Pop", "Essential", "Rihanna"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "rihanah_smfacv" },
+    "tags": ["Pop", "Essential", "Workout", "Energy"],
+    "createdBy": {
+      "_id": "u101",
+      "fullname": "Spotify",
+      "imgUrl": "rihanah_smfacv"
+    },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
-        "id": "uU7j3KkV1FY",
+        "id": "lWA2pjMjpBs",
         "title": "Diamonds",
-        "url": "uU7j3KkV1FY",
-        "imgUrl": "https://i.ytimg.com/vi/uU7j3KkV1FY/mqdefault.jpg",
+        "url": "lWA2pjMjpBs",
+        "imgUrl": "https://i.ytimg.com/vi/lWA2pjMjpBs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978737,
@@ -2225,10 +2062,10 @@
         "duration": 263
       },
       {
-        "id": "CvBfHwUxHIk",
-        "title": "Stay",
-        "url": "CvBfHwUxHIk",
-        "imgUrl": "https://i.ytimg.com/vi/CvBfHwUxHIk/mqdefault.jpg",
+        "id": "JF8BRvqGCNs",
+        "title": "Stay (feat. Mikky Ekko)",
+        "url": "JF8BRvqGCNs",
+        "imgUrl": "https://i.ytimg.com/vi/JF8BRvqGCNs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978737,
@@ -2237,10 +2074,10 @@
         "duration": 240
       },
       {
-        "id": "ehcVomMexkY",
-        "title": "We Found Love",
-        "url": "ehcVomMexkY",
-        "imgUrl": "https://i.ytimg.com/vi/ehcVomMexkY/mqdefault.jpg",
+        "id": "tg00YEETFzg",
+        "title": "We Found Love (feat. Calvin Harris)",
+        "url": "tg00YEETFzg",
+        "imgUrl": "https://i.ytimg.com/vi/tg00YEETFzg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978737,
@@ -2249,10 +2086,10 @@
         "duration": 220
       },
       {
-        "id": "HBxt_v0WF6Y",
+        "id": "pa14VNsdSYM",
         "title": "Only Girl (In The World)",
-        "url": "HBxt_v0WF6Y",
-        "imgUrl": "https://i.ytimg.com/vi/HBxt_v0WF6Y/mqdefault.jpg",
+        "url": "pa14VNsdSYM",
+        "imgUrl": "https://i.ytimg.com/vi/pa14VNsdSYM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978737,
@@ -2261,10 +2098,10 @@
         "duration": 244
       },
       {
-        "id": "XPpTgCho5ZA",
-        "title": "Umbrella",
-        "url": "XPpTgCho5ZA",
-        "imgUrl": "https://i.ytimg.com/vi/XPpTgCho5ZA/mqdefault.jpg",
+        "id": "CvBfHwUxHIk",
+        "title": "Umbrella (feat. JAY-Z)",
+        "url": "CvBfHwUxHIk",
+        "imgUrl": "https://i.ytimg.com/vi/CvBfHwUxHIk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978737,
@@ -2273,8 +2110,15 @@
         "duration": 265
       }
     ],
-    "msgs": [{ "id": "5720298b8b244", "from": "{mini-user}", "txt": "Rihanna hits different!" }]
-  },
+    "msgs": [
+      {
+        "id": "5720298b8b244",
+        "from": "{mini-user}",
+        "txt": "Rihanna hits different!"
+      }
+    ]
+  }
+  ,
   {
     "type": "album",
     "name": "Justin Timberlake Essentials",
@@ -2283,10 +2127,10 @@
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
-        "id": "bSfXf9QqE28",
+        "id": "uuZE_IRwLNI",
         "title": "Mirrors",
-        "url": "bSfXf9QqE28",
-        "imgUrl": "https://i.ytimg.com/vi/bSfXf9QqE28/mqdefault.jpg",
+        "url": "uuZE_IRwLNI",
+        "imgUrl": "https://i.ytimg.com/vi/uuZE_IRwLNI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978738,
@@ -2307,10 +2151,10 @@
         "duration": 236
       },
       {
-        "id": "W6RgU-UXB-0",
+        "id": "3gOHvDP_vCs",
         "title": "SexyBack",
-        "url": "W6RgU-UXB-0",
-        "imgUrl": "https://i.ytimg.com/vi/W6RgU-UXB-0/mqdefault.jpg",
+        "url": "3gOHvDP_vCs",
+        "imgUrl": "https://i.ytimg.com/vi/3gOHvDP_vCs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978738,
@@ -2319,10 +2163,10 @@
         "duration": 260
       },
       {
-        "id": "nO5mccQz2fY",
+        "id": "DksSPZTZES0",
         "title": "Cry Me a River",
-        "url": "nO5mccQz2fY",
-        "imgUrl": "https://i.ytimg.com/vi/nO5mccQz2fY/mqdefault.jpg",
+        "url": "DksSPZTZES0",
+        "imgUrl": "https://i.ytimg.com/vi/DksSPZTZES0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978738,
@@ -2348,7 +2192,7 @@
   {
     "type": "album",
     "name": "Michael Jackson Essentials",
-    "tags": ["Pop", "Essential", "Michael Jackson"],
+    "tags": ["Pop", "Essential", "Michael Jackson", "Legends"],
     "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "jackson_pzqdgu" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
@@ -2401,10 +2245,10 @@
         "duration": 303
       },
       {
-        "id": "C-blEgMyJwU",
+        "id": "q8w1d01Y2vY",
         "title": "Smooth Criminal",
-        "url": "C-blEgMyJwU",
-        "imgUrl": "https://i.ytimg.com/vi/C-blEgMyJwU/mqdefault.jpg",
+        "url": "q8w1d01Y2vY",
+        "imgUrl": "https://i.ytimg.com/vi/q8w1d01Y2vY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978738,
@@ -2419,15 +2263,19 @@
   {
     "type": "album",
     "name": "Beyoncé Essentials",
-    "tags": ["Pop", "Essential", "Beyoncé"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "beyonce_kxezil" },
+    "tags": ["Pop", "Essential", "Workout", "Legends", "Energy"],
+    "createdBy": {
+      "_id": "u101",
+      "fullname": "Spotify",
+      "imgUrl": "beyonce_kxezil"
+    },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
-        "id": "ViwtNLUqkMY",
+        "id": "aIz8j4EH3Ik",
         "title": "Halo",
-        "url": "ViwtNLUqkMY",
-        "imgUrl": "https://i.ytimg.com/vi/ViwtNLUqkMY/mqdefault.jpg",
+        "url": "aIz8j4EH3Ik",
+        "imgUrl": "https://i.ytimg.com/vi/aIz8j4EH3Ik/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978739,
@@ -2436,10 +2284,10 @@
         "duration": 261
       },
       {
-        "id": "WDZJPJV__bQ",
-        "title": "Single Ladies",
-        "url": "WDZJPJV__bQ",
-        "imgUrl": "https://i.ytimg.com/vi/WDZJPJV__bQ/mqdefault.jpg",
+        "id": "4m1EFMoRFvY",
+        "title": "Single Ladies (Put a Ring on It)",
+        "url": "4m1EFMoRFvY",
+        "imgUrl": "https://i.ytimg.com/vi/4m1EFMoRFvY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978739,
@@ -2448,10 +2296,10 @@
         "duration": 193
       },
       {
-        "id": "4m1EFMoRFvY",
-        "title": "Crazy In Love",
-        "url": "4m1EFMoRFvY",
-        "imgUrl": "https://i.ytimg.com/vi/4m1EFMoRFvY/mqdefault.jpg",
+        "id": "ViwtNLUqkMY",
+        "title": "Crazy In Love (feat. JAY Z)",
+        "url": "ViwtNLUqkMY",
+        "imgUrl": "https://i.ytimg.com/vi/ViwtNLUqkMY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978739,
@@ -2472,10 +2320,10 @@
         "duration": 267
       },
       {
-        "id": "LXXQLa-5n5w",
-        "title": "Drunk in Love",
-        "url": "LXXQLa-5n5w",
-        "imgUrl": "https://i.ytimg.com/vi/LXXQLa-5n5w/mqdefault.jpg",
+        "id": "p1JPKLa-Ofc",
+        "title": "Drunk in Love (feat. JAY Z)",
+        "url": "p1JPKLa-Ofc",
+        "imgUrl": "https://i.ytimg.com/vi/p1JPKLa-Ofc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978739,
@@ -2484,8 +2332,15 @@
         "duration": 321
       }
     ],
-    "msgs": [{ "id": "2f0f71eba8044", "from": "{mini-user}", "txt": "Beyoncé hits different!" }]
-  },
+    "msgs": [
+      {
+        "id": "2f0f71eba8044",
+        "from": "{mini-user}",
+        "txt": "Beyoncé hits different!"
+      }
+    ]
+  }
+  ,
   {
     "type": "album",
     "name": "Ed Sheeran Essentials",
@@ -2542,10 +2397,10 @@
         "duration": 258
       },
       {
-        "id": "0owj0CiM8WU",
+        "id": "K0ibBPhiaG0",
         "title": "Castle on the Hill",
-        "url": "0owj0CiM8WU",
-        "imgUrl": "https://i.ytimg.com/vi/0owj0CiM8WU/mqdefault.jpg",
+        "url": "K0ibBPhiaG0",
+        "imgUrl": "https://i.ytimg.com/vi/K0ibBPhiaG0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1747210978739,
@@ -2560,7 +2415,7 @@
   {
     "type": "album",
     "name": "Tupac Essentials",
-    "tags": ["Hip Hop", "Rap", "Tupac"],
+    "tags": ["Hip Hop", "Rap", "Tupac", "Legends"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -2569,22 +2424,22 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "5wBTdfAkqGU",
+        "id": "LRt6TdSvHag",
         "title": "California Love",
-        "url": "5wBTdfAkqGU",
-        "imgUrl": "https://i.ytimg.com/vi/5wBTdfAkqGU/mqdefault.jpg",
+        "url": "LRt6TdSvHag",
+        "imgUrl": "https://i.ytimg.com/vi/LRt6TdSvHag/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
-        "artist": "2Pac",
+        "artist": "2Pac ft. Dr. Dre",
         "album": "All Eyez on Me",
         "duration": 276
       },
       {
-        "id": "6iaQrh4p9Mg",
+        "id": "KwSMR5eVIBs",
         "title": "Hail Mary",
-        "url": "6iaQrh4p9Mg",
-        "imgUrl": "https://i.ytimg.com/vi/6iaQrh4p9Mg/mqdefault.jpg",
+        "url": "KwSMR5eVIBs",
+        "imgUrl": "https://i.ytimg.com/vi/KwSMR5eVIBs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2600,15 +2455,15 @@
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
-        "artist": "2Pac",
+        "artist": "2Pac ft. Talent",
         "album": "Greatest Hits",
         "duration": 294
       },
       {
-        "id": "6M__qF6w8HU",
+        "id": "XW--IGAfeas",
         "title": "Keep Ya Head Up",
-        "url": "6M__qF6w8HU",
-        "imgUrl": "https://i.ytimg.com/vi/6M__qF6w8HU/mqdefault.jpg",
+        "url": "XW--IGAfeas",
+        "imgUrl": "https://i.ytimg.com/vi/XW--IGAfeas/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2617,10 +2472,10 @@
         "duration": 270
       },
       {
-        "id": "_i5R3eAKZJg",
+        "id": "77nB_9uIcN4",
         "title": "Ambitionz Az a Ridah",
-        "url": "_i5R3eAKZJg",
-        "imgUrl": "https://i.ytimg.com/vi/_i5R3eAKZJg/mqdefault.jpg",
+        "url": "77nB_9uIcN4",
+        "imgUrl": "https://i.ytimg.com/vi/77nB_9uIcN4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2630,13 +2485,18 @@
       }
     ],
     "msgs": [
-      { "id": "msg_tupac_1", "from": "{mini-user}", "txt": "Classic West Coast fire 🔥" }
+      {
+        "id": "msg_tupac_1",
+        "from": "{mini-user}",
+        "txt": "Classic West Coast fire 🔥"
+      }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Snoop Dogg Essentials",
-    "tags": ["Hip Hop", "Rap", "Snoop Dogg"],
+    "tags": ["Hip Hop", "Rap", "Snoop Dogg", "Legends"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -2645,10 +2505,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "RaCodgL9cvk",
+        "id": "GtUVQei3nX4",
         "title": "Drop It Like It's Hot",
-        "url": "RaCodgL9cvk",
-        "imgUrl": "https://i.ytimg.com/vi/RaCodgL9cvk/mqdefault.jpg",
+        "url": "GtUVQei3nX4",
+        "imgUrl": "https://i.ytimg.com/vi/GtUVQei3nX4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2657,10 +2517,10 @@
         "duration": 280
       },
       {
-        "id": "diYAc7gB-0A",
+        "id": "fWCZse1iwE0",
         "title": "Gin and Juice",
-        "url": "diYAc7gB-0A",
-        "imgUrl": "https://i.ytimg.com/vi/diYAc7gB-0A/mqdefault.jpg",
+        "url": "fWCZse1iwE0",
+        "imgUrl": "https://i.ytimg.com/vi/fWCZse1iwE0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2669,10 +2529,10 @@
         "duration": 238
       },
       {
-        "id": "tRvdgypDzzE",
+        "id": "tbRO4M6QEv0",
         "title": "Who Am I (What's My Name)?",
-        "url": "tRvdgypDzzE",
-        "imgUrl": "https://i.ytimg.com/vi/tRvdgypDzzE/mqdefault.jpg",
+        "url": "tbRO4M6QEv0",
+        "imgUrl": "https://i.ytimg.com/vi/tbRO4M6QEv0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2681,10 +2541,10 @@
         "duration": 240
       },
       {
-        "id": "6zhbcosjFf4",
+        "id": "_FE194VN6c4",
         "title": "Beautiful",
-        "url": "6zhbcosjFf4",
-        "imgUrl": "https://i.ytimg.com/vi/6zhbcosjFf4/mqdefault.jpg",
+        "url": "_FE194VN6c4",
+        "imgUrl": "https://i.ytimg.com/vi/_FE194VN6c4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2693,10 +2553,10 @@
         "duration": 314
       },
       {
-        "id": "WIHfC5F1r7Y",
+        "id": "Wa5B22KAkEk",
         "title": "Young, Wild & Free",
-        "url": "WIHfC5F1r7Y",
-        "imgUrl": "https://i.ytimg.com/vi/WIHfC5F1r7Y/mqdefault.jpg",
+        "url": "Wa5B22KAkEk",
+        "imgUrl": "https://i.ytimg.com/vi/Wa5B22KAkEk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2712,11 +2572,12 @@
         "txt": "Laid back vibes 😎"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Eminem Essentials",
-    "tags": ["Hip Hop", "Rap", "Eminem"],
+    "tags": ["Hip Hop", "Rap", "Eminem", "Legends"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -2796,7 +2657,7 @@
   {
     "type": "album",
     "name": "Kendrick Lamar Essentials",
-    "tags": ["Hip Hop", "Rap", "Kendrick Lamar"],
+    "tags": ["Hip Hop", "Rap", "Kendrick Lamar", "Legends"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -2853,10 +2714,10 @@
         "duration": 237
       },
       {
-        "id": "1Tl3U6sF3gw",
+        "id": "HJNa9Ih3haA",
         "title": "Money Trees",
-        "url": "1Tl3U6sF3gw",
-        "imgUrl": "https://i.ytimg.com/vi/1Tl3U6sF3gw/mqdefault.jpg",
+        "url": "HJNa9Ih3haA",
+        "imgUrl": "https://i.ytimg.com/vi/HJNa9Ih3haA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -2876,7 +2737,7 @@
   {
     "type": "album",
     "name": "Nicki Minaj Essentials",
-    "tags": ["Hip Hop", "Rap", "Nicki Minaj"],
+    "tags": ["Hip Hop", "Rap", "Nicki Minaj", "Legends"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -2989,30 +2850,6 @@
         "duration": 347
       },
       {
-        "id": "OQnRAKz1t1s",
-        "title": "DARE",
-        "url": "OQnRAKz1t1s",
-        "imgUrl": "https://i.ytimg.com/vi/OQnRAKz1t1s/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Gorillaz",
-        "album": "Demon Days",
-        "duration": 300
-      },
-      {
-        "id": "LoQYw49saqc",
-        "title": "On Melancholy Hill",
-        "url": "LoQYw49saqc",
-        "imgUrl": "https://i.ytimg.com/vi/LoQYw49saqc/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Gorillaz",
-        "album": "Plastic Beach",
-        "duration": 232
-      },
-      {
         "id": "pi00ykRg_5c",
         "title": "Stylo (feat. Mos Def and Bobby Womack)",
         "url": "pi00ykRg_5c",
@@ -3037,30 +2874,6 @@
         "duration": 218
       },
       {
-        "id": "uHVzaZcuKPI",
-        "title": "Saturnz Barz (Spirit House)",
-        "url": "uHVzaZcuKPI",
-        "imgUrl": "https://i.ytimg.com/vi/uHVzaZcuKPI/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Gorillaz",
-        "album": "Humanz",
-        "duration": 304
-      },
-      {
-        "id": "E_5vY9Ryl5g",
-        "title": "Tranz",
-        "url": "E_5vY9Ryl5g",
-        "imgUrl": "https://i.ytimg.com/vi/E_5vY9Ryl5g/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Gorillaz",
-        "album": "The Now Now",
-        "duration": 192
-      },
-      {
         "id": "n4RjJKxsamQ",
         "title": "Tomorrow Comes Today",
         "url": "n4RjJKxsamQ",
@@ -3071,18 +2884,6 @@
         "artist": "Gorillaz",
         "album": "Gorillaz",
         "duration": 231
-      },
-      {
-        "id": "Z3dShPoJmPM",
-        "title": "Rhinestone Eyes",
-        "url": "Z3dShPoJmPM",
-        "imgUrl": "https://i.ytimg.com/vi/Z3dShPoJmPM/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Gorillaz",
-        "album": "Plastic Beach",
-        "duration": 232
       }
     ],
     "msgs": [
@@ -3096,7 +2897,7 @@
   {
     "type": "album",
     "name": "Radiohead Essentials",
-    "tags": ["Alternative", "Rock", "Radiohead"],
+    "tags": ["Alternative", "Rock", "Radiohead", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -3117,18 +2918,6 @@
         "duration": 238
       },
       {
-        "id": "fHiGbolFFGw",
-        "title": "Karma Police",
-        "url": "fHiGbolFFGw",
-        "imgUrl": "https://i.ytimg.com/vi/fHiGbolFFGw/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Radiohead",
-        "album": "OK Computer",
-        "duration": 262
-      },
-      {
         "id": "u5CVsCnxyXg",
         "title": "No Surprises",
         "url": "u5CVsCnxyXg",
@@ -3141,22 +2930,10 @@
         "duration": 229
       },
       {
-        "id": "n5h0qHwNrHk",
-        "title": "Paranoid Android",
-        "url": "n5h0qHwNrHk",
-        "imgUrl": "https://i.ytimg.com/vi/n5h0qHwNrHk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Radiohead",
-        "album": "OK Computer",
-        "duration": 387
-      },
-      {
-        "id": "yBZK6N2v3j4",
+        "id": "7qFfFVSerQo",
         "title": "High and Dry",
-        "url": "yBZK6N2v3j4",
-        "imgUrl": "https://i.ytimg.com/vi/yBZK6N2v3j4/mqdefault.jpg",
+        "url": "7qFfFVSerQo",
+        "imgUrl": "https://i.ytimg.com/vi/7qFfFVSerQo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -3165,10 +2942,10 @@
         "duration": 256
       },
       {
-        "id": "n4r5oj5b73o",
+        "id": "n5h0qHwNrHk",
         "title": "Fake Plastic Trees",
-        "url": "n4r5oj5b73o",
-        "imgUrl": "https://i.ytimg.com/vi/n4r5oj5b73o/mqdefault.jpg",
+        "url": "n5h0qHwNrHk",
+        "imgUrl": "https://i.ytimg.com/vi/n5h0qHwNrHk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -3201,18 +2978,6 @@
         "duration": 262
       },
       {
-        "id": "XFkzRNyygfk",
-        "title": "Creep",
-        "url": "XFkzRNyygfk",
-        "imgUrl": "https://i.ytimg.com/vi/XFkzRNyygfk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Radiohead",
-        "album": "Pablo Honey",
-        "duration": 238
-      },
-      {
         "id": "n5h0qHwNrHk",
         "title": "Paranoid Android",
         "url": "n5h0qHwNrHk",
@@ -3236,7 +3001,7 @@
   {
     "type": "album",
     "name": "Tame Impala Essentials",
-    "tags": ["Alternative", "Psychedelic"],
+    "tags": ["Alternative", "Psychedelic", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -3293,66 +3058,6 @@
         "duration": 240
       },
       {
-        "id": "N5vZb9Uqf4M",
-        "title": "Eventually",
-        "url": "N5vZb9Uqf4M",
-        "imgUrl": "https://i.ytimg.com/vi/N5vZb9Uqf4M/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Tame Impala",
-        "album": "Currents",
-        "duration": 308
-      },
-      {
-        "id": "b0jqPvpn3sY",
-        "title": "Elephant",
-        "url": "b0jqPvpn3sY",
-        "imgUrl": "https://i.ytimg.com/vi/b0jqPvpn3sY/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Tame Impala",
-        "album": "Lonerism",
-        "duration": 234
-      },
-      {
-        "id": "wjJkcsJrEak",
-        "title": "Yes I'm Changing",
-        "url": "wjJkcsJrEak",
-        "imgUrl": "https://i.ytimg.com/vi/wjJkcsJrEak/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Tame Impala",
-        "album": "Currents",
-        "duration": 252
-      },
-      {
-        "id": "28z9UzIK3vE",
-        "title": "Posthumous Forgiveness",
-        "url": "28z9UzIK3vE",
-        "imgUrl": "https://i.ytimg.com/vi/28z9UzIK3vE/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Tame Impala",
-        "album": "The Slow Rush",
-        "duration": 375
-      },
-      {
-        "id": "I-txZzNIaG4",
-        "title": "Patience",
-        "url": "I-txZzNIaG4",
-        "imgUrl": "https://i.ytimg.com/vi/I-txZzNIaG4/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Tame Impala",
-        "album": "The Slow Rush",
-        "duration": 240
-      },
-      {
         "id": "KQH2Kq1QXaI",
         "title": "New Person, Same Old Mistakes",
         "url": "KQH2Kq1QXaI",
@@ -3385,18 +3090,6 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "hVt9qY1QoOU",
-        "title": "A Moment Apart",
-        "url": "hVt9qY1QoOU",
-        "imgUrl": "https://i.ytimg.com/vi/hVt9qY1QoOU/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "A Moment Apart",
-        "duration": 304
-      },
-      {
         "id": "8v_4O44sfjM",
         "title": "Line Of Sight",
         "url": "8v_4O44sfjM",
@@ -3421,66 +3114,6 @@
         "duration": 237
       },
       {
-        "id": "h2JvF9Y8nQM",
-        "title": "Bloom",
-        "url": "h2JvF9Y8nQM",
-        "imgUrl": "https://i.ytimg.com/vi/h2JvF9Y8nQM/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "In Return",
-        "duration": 200
-      },
-      {
-        "id": "m0pXJAQn1X8",
-        "title": "Corners Of The Earth",
-        "url": "m0pXJAQn1X8",
-        "imgUrl": "https://i.ytimg.com/vi/m0pXJAQn1X8/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "A Moment Apart",
-        "duration": 285
-      },
-      {
-        "id": "A2A1nI4Y330",
-        "title": "Sun Models",
-        "url": "A2A1nI4Y330",
-        "imgUrl": "https://i.ytimg.com/vi/A2A1nI4Y330/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "In Return",
-        "duration": 162
-      },
-      {
-        "id": "1YZXL6S6hTg",
-        "title": "Late Night",
-        "url": "1YZXL6S6hTg",
-        "imgUrl": "https://i.ytimg.com/vi/1YZXL6S6hTg/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "A Moment Apart",
-        "duration": 229
-      },
-      {
-        "id": "MRK7YJkzqYg",
-        "title": "It's Only",
-        "url": "MRK7YJkzqYg",
-        "imgUrl": "https://i.ytimg.com/vi/MRK7YJkzqYg/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "In Return",
-        "duration": 308
-      },
-      {
         "id": "HdzI-191xhU",
         "title": "Across The Room",
         "url": "HdzI-191xhU",
@@ -3491,18 +3124,6 @@
         "artist": "ODESZA",
         "album": "A Moment Apart",
         "duration": 257
-      },
-      {
-        "id": "rM7tY7KLxRo",
-        "title": "How Did I Get Here",
-        "url": "rM7tY7KLxRo",
-        "imgUrl": "https://i.ytimg.com/vi/rM7tY7KLxRo/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "ODESZA",
-        "album": "Summer's Gone",
-        "duration": 180
       }
     ],
     "msgs": [
@@ -3516,7 +3137,7 @@
   {
     "type": "album",
     "name": "Alt-J Essentials",
-    "tags": ["Alternative", "Indie Rock"],
+    "tags": ["Alternative", "Indie Rock", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -3535,18 +3156,6 @@
         "artist": "Alt-J",
         "album": "An Awesome Wave",
         "duration": 229
-      },
-      {
-        "id": "hFz8XO4uV-8",
-        "title": "Taro",
-        "url": "hFz8XO4uV-8",
-        "imgUrl": "https://i.ytimg.com/vi/hFz8XO4uV-8/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Alt-J",
-        "album": "An Awesome Wave",
-        "duration": 305
       },
       {
         "id": "Q06wFUi5OM8",
@@ -3573,18 +3182,6 @@
         "duration": 153
       },
       {
-        "id": "NS6KfR0zA3k",
-        "title": "Hunger Of The Pine",
-        "url": "NS6KfR0zA3k",
-        "imgUrl": "https://i.ytimg.com/vi/NS6KfR0zA3k/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Alt-J",
-        "album": "This Is All Yours",
-        "duration": 305
-      },
-      {
         "id": "aNYjOVo5IEw",
         "title": "Every Other Freckle",
         "url": "aNYjOVo5IEw",
@@ -3597,18 +3194,6 @@
         "duration": 215
       },
       {
-        "id": "mpHLEm9-0bg",
-        "title": "Fitzpleasure",
-        "url": "mpHLEm9-0bg",
-        "imgUrl": "https://i.ytimg.com/vi/mpHLEm9-0bg/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Alt-J",
-        "album": "An Awesome Wave",
-        "duration": 229
-      },
-      {
         "id": "Qg6BwvDcANg",
         "title": "Something Good",
         "url": "Qg6BwvDcANg",
@@ -3619,18 +3204,6 @@
         "artist": "Alt-J",
         "album": "An Awesome Wave",
         "duration": 237
-      },
-      {
-        "id": "JccW-mLdNe0",
-        "title": "Deadcrush",
-        "url": "JccW-mLdNe0",
-        "imgUrl": "https://i.ytimg.com/vi/JccW-mLdNe0/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Alt-J",
-        "album": "Relaxer",
-        "duration": 241
       },
       {
         "id": "Q06wFUi5OM8",
@@ -3749,18 +3322,6 @@
         "duration": 398
       },
       {
-        "id": "7fzN9zK2YcA",
-        "title": "Inertia Creeps",
-        "url": "7fzN9zK2YcA",
-        "imgUrl": "https://i.ytimg.com/vi/7fzN9zK2YcA/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Massive Attack",
-        "album": "Mezzanine",
-        "duration": 331
-      },
-      {
         "id": "sZfZ8uWaOFI",
         "title": "Risingson",
         "url": "sZfZ8uWaOFI",
@@ -3771,18 +3332,6 @@
         "artist": "Massive Attack",
         "album": "Mezzanine",
         "duration": 297
-      },
-      {
-        "id": "E2Yt7r8ubLE",
-        "title": "Girl I Love You",
-        "url": "E2Yt7r8ubLE",
-        "imgUrl": "https://i.ytimg.com/vi/E2Yt7r8ubLE/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Massive Attack",
-        "album": "Heligoland",
-        "duration": 329
       }
     ],
     "msgs": [
@@ -3827,90 +3376,6 @@
         "artist": "Flume",
         "album": "Skin",
         "duration": 240
-      },
-      {
-        "id": "k2FRlXqtJwU",
-        "title": "Holdin On",
-        "url": "k2FRlXqtJwU",
-        "imgUrl": "https://i.ytimg.com/vi/k2FRlXqtJwU/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Flume",
-        "duration": 226
-      },
-      {
-        "id": "2-LQ9xTjlho",
-        "title": "Rushing Back",
-        "url": "2-LQ9xTjlho",
-        "imgUrl": "https://i.ytimg.com/vi/2-LQ9xTjlho/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Hi This Is Flume",
-        "duration": 223
-      },
-      {
-        "id": "yivQZn5f5bA",
-        "title": "Sleepless",
-        "url": "yivQZn5f5bA",
-        "imgUrl": "https://i.ytimg.com/vi/yivQZn5f5bA/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Flume",
-        "duration": 202
-      },
-      {
-        "id": "Ra_iiSIn4fk",
-        "title": "Hyperreal",
-        "url": "Ra_iiSIn4fk",
-        "imgUrl": "https://i.ytimg.com/vi/Ra_iiSIn4fk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Skin Companion",
-        "duration": 255
-      },
-      {
-        "id": "cy0p-EMKjSI",
-        "title": "Smoke & Retribution",
-        "url": "cy0p-EMKjSI",
-        "imgUrl": "https://i.ytimg.com/vi/cy0p-EMKjSI/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Skin",
-        "duration": 252
-      },
-      {
-        "id": "Z3A1PV9rbvI",
-        "title": "Insane",
-        "url": "Z3A1PV9rbvI",
-        "imgUrl": "https://i.ytimg.com/vi/Z3A1PV9rbvI/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Flume",
-        "duration": 210
-      },
-      {
-        "id": "mRQ1ZMBikp0",
-        "title": "Say Nothing",
-        "url": "mRQ1ZMBikp0",
-        "imgUrl": "https://i.ytimg.com/vi/mRQ1ZMBikp0/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Flume",
-        "album": "Palaces",
-        "duration": 260
       },
       {
         "id": "6vopR3ys8Kw",
@@ -4158,18 +3623,6 @@
         "duration": 180
       },
       {
-        "id": "iy3rBTpUUpw",
-        "title": "Rape Me",
-        "url": "iy3rBTpUUpw",
-        "imgUrl": "https://i.ytimg.com/vi/iy3rBTpUUpw/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Nirvana",
-        "album": "In Utero",
-        "duration": 165
-      },
-      {
         "id": "fregObNcHC8",
         "title": "All Apologies",
         "url": "fregObNcHC8",
@@ -4192,19 +3645,8 @@
         "artist": "Nirvana",
         "album": "MTV Unplugged",
         "duration": 260
-      },
-      {
-        "id": "lF5x6ZkYk3E",
-        "title": "Aneurysm",
-        "url": "lF5x6ZkYk3E",
-        "imgUrl": "https://i.ytimg.com/vi/lF5x6ZkYk3E/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Nirvana",
-        "album": "Incesticide",
-        "duration": 261
       }
+
     ],
     "msgs": [
       {
@@ -4262,18 +3704,6 @@
         "duration": 164
       },
       {
-        "id": "NY4EBtNnYQs",
-        "title": "I Wanna Be Yours",
-        "url": "NY4EBtNnYQs",
-        "imgUrl": "https://i.ytimg.com/vi/NY4EBtNnYQs/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Arctic Monkeys",
-        "album": "AM",
-        "duration": 184
-      },
-      {
         "id": "Jn6-TItCazo",
         "title": "Arabella",
         "url": "Jn6-TItCazo",
@@ -4284,18 +3714,6 @@
         "artist": "Arctic Monkeys",
         "album": "AM",
         "duration": 209
-      },
-      {
-        "id": "ifZfUVpW6pY",
-        "title": "505",
-        "url": "ifZfUVpW6pY",
-        "imgUrl": "https://i.ytimg.com/vi/ifZfUVpW6pY/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Arctic Monkeys",
-        "album": "Favourite Worst Nightmare",
-        "duration": 244
       },
       {
         "id": "ma9I9VBKPiw",
@@ -4412,18 +3830,6 @@
         "artist": "Foo Fighters",
         "album": "The Colour and the Shape",
         "duration": 250
-      },
-      {
-        "id": "5i7GHTFxca4",
-        "title": "Times Like These",
-        "url": "5i7GHTFxca4",
-        "imgUrl": "https://i.ytimg.com/vi/5i7GHTFxca4/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Foo Fighters",
-        "album": "One by One",
-        "duration": 278
       },
       {
         "id": "4PkcfQtibmU",
@@ -4578,42 +3984,6 @@
         "duration": 277
       },
       {
-        "id": "rqv85zX2F_U",
-        "title": "You Can't Always Get What You Want",
-        "url": "rqv85zX2F_U",
-        "imgUrl": "https://i.ytimg.com/vi/rqv85zX2F_U/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "duration": 420
-      },
-      {
-        "id": "sqe2VIE9lHE",
-        "title": "Wild Horses",
-        "url": "sqe2VIE9lHE",
-        "imgUrl": "https://i.ytimg.com/vi/sqe2VIE9lHE/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "The Rolling Stones",
-        "album": "Sticky Fingers",
-        "duration": 334
-      },
-      {
-        "id": "eQSGw0hMd_I",
-        "title": "Jumpin’ Jack Flash",
-        "url": "eQSGw0hMd_I",
-        "imgUrl": "https://i.ytimg.com/vi/eQSGw0hMd_I/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "The Rolling Stones",
-        "album": "Through The Past",
-        "duration": 195
-      },
-      {
         "id": "KuRxXRuAz-I",
         "title": "Miss You",
         "url": "KuRxXRuAz-I",
@@ -4637,7 +4007,7 @@
   {
     "type": "album",
     "name": "Dua Lipa Essentials",
-    "tags": ["Pop", "Dance"],
+    "tags": ["Pop", "Pary", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -4645,30 +4015,6 @@
     },
     "likedByUsers": ["{minimal-user}"],
     "songs": [
-      {
-        "id": "NFfB6wFj6Jo",
-        "title": "Levitating",
-        "url": "NFfB6wFj6Jo",
-        "imgUrl": "https://i.ytimg.com/vi/NFfB6wFj6Jo/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Dua Lipa",
-        "album": "Future Nostalgia",
-        "duration": 203
-      },
-      {
-        "id": "XWjzYt6y9wk",
-        "title": "Don't Start Now",
-        "url": "XWjzYt6y9wk",
-        "imgUrl": "https://i.ytimg.com/vi/XWjzYt6y9wk/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Dua Lipa",
-        "album": "Future Nostalgia",
-        "duration": 183
-      },
       {
         "id": "k2qgadSvNyU",
         "title": "New Rules",
@@ -4718,46 +4064,10 @@
         "duration": 223
       },
       {
-        "id": "gjbBqWz5I0g",
-        "title": "IDGAF",
-        "url": "gjbBqWz5I0g",
-        "imgUrl": "https://i.ytimg.com/vi/gjbBqWz5I0g/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Dua Lipa",
-        "album": "Dua Lipa",
-        "duration": 218
-      },
-      {
-        "id": "Qz-AU0RH-3E",
-        "title": "We're Good",
-        "url": "Qz-AU0RH-3E",
-        "imgUrl": "https://i.ytimg.com/vi/Qz-AU0RH-3E/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Dua Lipa",
-        "album": "Future Nostalgia",
-        "duration": 170
-      },
-      {
-        "id": "XRJ3Xg4XgUE",
-        "title": "Love Again",
-        "url": "XRJ3Xg4XgUE",
-        "imgUrl": "https://i.ytimg.com/vi/XRJ3Xg4XgUE/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Dua Lipa",
-        "album": "Future Nostalgia",
-        "duration": 248
-      },
-      {
-        "id": "2tYjP9qv8kI",
+        "id": "qcZ7e9EOQTY",
         "title": "Hallucinate",
-        "url": "2tYjP9qv8kI",
-        "imgUrl": "https://i.ytimg.com/vi/2tYjP9qv8kI/mqdefault.jpg",
+        "url": "qcZ7e9EOQTY",
+        "imgUrl": "https://i.ytimg.com/vi/qcZ7e9EOQTY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4777,7 +4087,7 @@
   {
     "type": "album",
     "name": "Harry Styles Essentials",
-    "tags": ["Pop", "Indie Pop"],
+    "tags": ["Pop", "Indie Pop", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -4786,10 +4096,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "dqKSbEp8mbY",
+        "id": "H5v3kku4y6Q",
         "title": "As It Was",
-        "url": "dqKSbEp8mbY",
-        "imgUrl": "https://i.ytimg.com/vi/dqKSbEp8mbY/mqdefault.jpg",
+        "url": "H5v3kku4y6Q",
+        "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4798,10 +4108,10 @@
         "duration": 165
       },
       {
-        "id": "7SxTY9h1G1Q",
+        "id": "E07s5ZYygMg",
         "title": "Watermelon Sugar",
-        "url": "7SxTY9h1G1Q",
-        "imgUrl": "https://i.ytimg.com/vi/7SxTY9h1G1Q/mqdefault.jpg",
+        "url": "E07s5ZYygMg",
+        "imgUrl": "https://i.ytimg.com/vi/E07s5ZYygMg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4810,10 +4120,10 @@
         "duration": 174
       },
       {
-        "id": "r5nB9u4jjy4",
+        "id": "qN4ooNx77u0",
         "title": "Sign of the Times",
-        "url": "r5nB9u4jjy4",
-        "imgUrl": "https://i.ytimg.com/vi/r5nB9u4jjy4/mqdefault.jpg",
+        "url": "qN4ooNx77u0",
+        "imgUrl": "https://i.ytimg.com/vi/qN4ooNx77u0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4822,10 +4132,10 @@
         "duration": 340
       },
       {
-        "id": "9wg3v-01yKQ",
+        "id": "VF-r5TtlT9w",
         "title": "Adore You",
-        "url": "9wg3v-01yKQ",
-        "imgUrl": "https://i.ytimg.com/vi/9wg3v-01yKQ/mqdefault.jpg",
+        "url": "VF-r5TtlT9w",
+        "imgUrl": "https://i.ytimg.com/vi/VF-r5TtlT9w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4834,10 +4144,10 @@
         "duration": 207
       },
       {
-        "id": "OBOTcE56fUk",
+        "id": "P3cffdsEXXw",
         "title": "Golden",
-        "url": "OBOTcE56fUk",
-        "imgUrl": "https://i.ytimg.com/vi/OBOTcE56fUk/mqdefault.jpg",
+        "url": "P3cffdsEXXw",
+        "imgUrl": "https://i.ytimg.com/vi/P3cffdsEXXw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4846,10 +4156,10 @@
         "duration": 209
       },
       {
-        "id": "6PvuhszlC0g",
+        "id": "4VaqA-5aQTM",
         "title": "Late Night Talking",
-        "url": "6PvuhszlC0g",
-        "imgUrl": "https://i.ytimg.com/vi/6PvuhszlC0g/mqdefault.jpg",
+        "url": "4VaqA-5aQTM",
+        "imgUrl": "https://i.ytimg.com/vi/4VaqA-5aQTM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4858,10 +4168,10 @@
         "duration": 177
       },
       {
-        "id": "ctMvaridtt8",
+        "id": "olGSAVOkkTI",
         "title": "Falling",
-        "url": "ctMvaridtt8",
-        "imgUrl": "https://i.ytimg.com/vi/ctMvaridtt8/mqdefault.jpg",
+        "url": "olGSAVOkkTI",
+        "imgUrl": "https://i.ytimg.com/vi/olGSAVOkkTI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4870,10 +4180,10 @@
         "duration": 240
       },
       {
-        "id": "IrQno3Zh2z4",
+        "id": "9NZvM1918_E",
         "title": "Lights Up",
-        "url": "IrQno3Zh2z4",
-        "imgUrl": "https://i.ytimg.com/vi/IrQno3Zh2z4/mqdefault.jpg",
+        "url": "9NZvM1918_E",
+        "imgUrl": "https://i.ytimg.com/vi/9NZvM1918_E/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4882,10 +4192,10 @@
         "duration": 165
       },
       {
-        "id": "7xZKBEqWfjI",
+        "id": "9wg3v-01yKQ",
         "title": "Kiwi",
-        "url": "7xZKBEqWfjI",
-        "imgUrl": "https://i.ytimg.com/vi/7xZKBEqWfjI/mqdefault.jpg",
+        "url": "9wg3v-01yKQ",
+        "imgUrl": "https://i.ytimg.com/vi/9wg3v-01yKQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4894,10 +4204,10 @@
         "duration": 167
       },
       {
-        "id": "zTgjEBTj9a4",
+        "id": "CiwMDFh_Rog",
         "title": "Music for a Sushi Restaurant",
-        "url": "zTgjEBTj9a4",
-        "imgUrl": "https://i.ytimg.com/vi/zTgjEBTj9a4/mqdefault.jpg",
+        "url": "CiwMDFh_Rog",
+        "imgUrl": "https://i.ytimg.com/vi/CiwMDFh_Rog/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4905,19 +4215,14 @@
         "album": "Harry's House",
         "duration": 184
       }
-    ],
-    "msgs": [
-      {
-        "id": "msg_593",
-        "from": "{mini-user}",
-        "txt": "Harry Styles always makes it feel golden 🌞"
-      }
     ]
-  },
+  }
+
+  ,
   {
     "type": "album",
     "name": "Ariana Grande Essentials",
-    "tags": ["Pop", "R&B"],
+    "tags": ["Pop", "Workout", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -4926,10 +4231,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "ffxKSjUwKdU",
+        "id": "1ekZEVeXwek",
         "title": "Into You",
-        "url": "ffxKSjUwKdU",
-        "imgUrl": "https://i.ytimg.com/vi/ffxKSjUwKdU/mqdefault.jpg",
+        "url": "1ekZEVeXwek",
+        "imgUrl": "https://i.ytimg.com/vi/1ekZEVeXwek/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4938,10 +4243,10 @@
         "duration": 258
       },
       {
-        "id": "gl1aHhXnN1k",
+        "id": "ffxKSjUwKdU",
         "title": "No Tears Left To Cry",
-        "url": "gl1aHhXnN1k",
-        "imgUrl": "https://i.ytimg.com/vi/gl1aHhXnN1k/mqdefault.jpg",
+        "url": "ffxKSjUwKdU",
+        "imgUrl": "https://i.ytimg.com/vi/ffxKSjUwKdU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4950,10 +4255,10 @@
         "duration": 225
       },
       {
-        "id": "QYh6mYIJG2Y",
+        "id": "tcYodQoapMg",
         "title": "Positions",
-        "url": "QYh6mYIJG2Y",
-        "imgUrl": "https://i.ytimg.com/vi/QYh6mYIJG2Y/mqdefault.jpg",
+        "url": "tcYodQoapMg",
+        "imgUrl": "https://i.ytimg.com/vi/tcYodQoapMg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4962,10 +4267,10 @@
         "duration": 173
       },
       {
-        "id": "ggLBEsvPYKo",
+        "id": "gl1aHhXnN1k",
         "title": "Thank U, Next",
-        "url": "ggLBEsvPYKo",
-        "imgUrl": "https://i.ytimg.com/vi/ggLBEsvPYKo/mqdefault.jpg",
+        "url": "gl1aHhXnN1k",
+        "imgUrl": "https://i.ytimg.com/vi/gl1aHhXnN1k/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4974,10 +4279,10 @@
         "duration": 207
       },
       {
-        "id": "tcYodQoapMg",
+        "id": "QYh6mYIJG2Y",
         "title": "7 rings",
-        "url": "tcYodQoapMg",
-        "imgUrl": "https://i.ytimg.com/vi/tcYodQoapMg/mqdefault.jpg",
+        "url": "QYh6mYIJG2Y",
+        "imgUrl": "https://i.ytimg.com/vi/QYh6mYIJG2Y/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4986,10 +4291,10 @@
         "duration": 179
       },
       {
-        "id": "iS1g8G_njx8",
+        "id": "9WbCfHutDSE",
         "title": "Dangerous Woman",
-        "url": "iS1g8G_njx8",
-        "imgUrl": "https://i.ytimg.com/vi/iS1g8G_njx8/mqdefault.jpg",
+        "url": "9WbCfHutDSE",
+        "imgUrl": "https://i.ytimg.com/vi/9WbCfHutDSE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -4998,10 +4303,10 @@
         "duration": 235
       },
       {
-        "id": "btYmIZ0qkRA",
+        "id": "SXiSVQZLje8",
         "title": "Side To Side",
-        "url": "btYmIZ0qkRA",
-        "imgUrl": "https://i.ytimg.com/vi/btYmIZ0qkRA/mqdefault.jpg",
+        "url": "SXiSVQZLje8",
+        "imgUrl": "https://i.ytimg.com/vi/SXiSVQZLje8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5010,10 +4315,10 @@
         "duration": 207
       },
       {
-        "id": "7RHccnDi03o",
+        "id": "kHLHSlExFis",
         "title": "God Is A Woman",
-        "url": "7RHccnDi03o",
-        "imgUrl": "https://i.ytimg.com/vi/7RHccnDi03o/mqdefault.jpg",
+        "url": "kHLHSlExFis",
+        "imgUrl": "https://i.ytimg.com/vi/kHLHSlExFis/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5022,10 +4327,10 @@
         "duration": 197
       },
       {
-        "id": "f0ptFLrA3a0",
+        "id": "v0QzZuvOgRE",
         "title": "Into You (Live)",
-        "url": "f0ptFLrA3a0",
-        "imgUrl": "https://i.ytimg.com/vi/f0ptFLrA3a0/mqdefault.jpg",
+        "url": "v0QzZuvOgRE",
+        "imgUrl": "https://i.ytimg.com/vi/v0QzZuvOgRE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5034,10 +4339,10 @@
         "duration": 260
       },
       {
-        "id": "M1SkqO7wO6M",
+        "id": "L8eRzOYhLuw",
         "title": "Break Free",
-        "url": "M1SkqO7wO6M",
-        "imgUrl": "https://i.ytimg.com/vi/M1SkqO7wO6M/mqdefault.jpg",
+        "url": "L8eRzOYhLuw",
+        "imgUrl": "https://i.ytimg.com/vi/L8eRzOYhLuw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5053,11 +4358,13 @@
         "txt": "Ariana always hits those high notes and emotions 💖🎤"
       }
     ]
-  },
+  }
+
+  ,
   {
     "type": "album",
     "name": "Bruno Mars Essentials",
-    "tags": ["Pop", "Funk", "Soul"],
+    "tags": ["Pop", "Workout", "Soul", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -5197,7 +4504,7 @@
   {
     "type": "album",
     "name": "Lady Gaga Essentials",
-    "tags": ["Pop", "Dance", "Electropop"],
+    "tags": ["Pop", "Dance", "Workout", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -5206,10 +4513,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "bESGLojNYSo",
+        "id": "qrO4YZeyl0I",
         "title": "Bad Romance",
-        "url": "bESGLojNYSo",
-        "imgUrl": "https://i.ytimg.com/vi/bESGLojNYSo/mqdefault.jpg",
+        "url": "qrO4YZeyl0I",
+        "imgUrl": "https://i.ytimg.com/vi/qrO4YZeyl0I/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5218,10 +4525,10 @@
         "duration": 295
       },
       {
-        "id": "qrO4YZeyl0I",
+        "id": "bESGLojNYSo",
         "title": "Poker Face",
-        "url": "qrO4YZeyl0I",
-        "imgUrl": "https://i.ytimg.com/vi/qrO4YZeyl0I/mqdefault.jpg",
+        "url": "bESGLojNYSo",
+        "imgUrl": "https://i.ytimg.com/vi/bESGLojNYSo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5230,10 +4537,10 @@
         "duration": 236
       },
       {
-        "id": "Xn599R0ZBwg",
+        "id": "bo_efYhYU2A",
         "title": "Shallow",
-        "url": "Xn599R0ZBwg",
-        "imgUrl": "https://i.ytimg.com/vi/Xn599R0ZBwg/mqdefault.jpg",
+        "url": "bo_efYhYU2A",
+        "imgUrl": "https://i.ytimg.com/vi/bo_efYhYU2A/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5242,10 +4549,10 @@
         "duration": 215
       },
       {
-        "id": "SlVd4yd3QwI",
+        "id": "AoAm4om0wTs",
         "title": "Rain On Me",
-        "url": "SlVd4yd3QwI",
-        "imgUrl": "https://i.ytimg.com/vi/SlVd4yd3QwI/mqdefault.jpg",
+        "url": "AoAm4om0wTs",
+        "imgUrl": "https://i.ytimg.com/vi/AoAm4om0wTs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5254,10 +4561,10 @@
         "duration": 182
       },
       {
-        "id": "GZz6Q8xV2UM",
+        "id": "5L6xyaeiV58",
         "title": "Stupid Love",
-        "url": "GZz6Q8xV2UM",
-        "imgUrl": "https://i.ytimg.com/vi/GZz6Q8xV2UM/mqdefault.jpg",
+        "url": "5L6xyaeiV58",
+        "imgUrl": "https://i.ytimg.com/vi/5L6xyaeiV58/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5266,10 +4573,10 @@
         "duration": 211
       },
       {
-        "id": "ACm9yECwSso",
+        "id": "wV1FrqwZyKw",
         "title": "Born This Way",
-        "url": "ACm9yECwSso",
-        "imgUrl": "https://i.ytimg.com/vi/ACm9yECwSso/mqdefault.jpg",
+        "url": "wV1FrqwZyKw",
+        "imgUrl": "https://i.ytimg.com/vi/wV1FrqwZyKw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5278,10 +4585,10 @@
         "duration": 260
       },
       {
-        "id": "kth19x9UFCQ",
+        "id": "2Abk1jAONjw",
         "title": "Just Dance",
-        "url": "kth19x9UFCQ",
-        "imgUrl": "https://i.ytimg.com/vi/kth19x9UFCQ/mqdefault.jpg",
+        "url": "2Abk1jAONjw",
+        "imgUrl": "https://i.ytimg.com/vi/2Abk1jAONjw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5290,10 +4597,10 @@
         "duration": 244
       },
       {
-        "id": "wV1FrqwZyKw",
+        "id": "pco91kroVgQ",
         "title": "Applause",
-        "url": "wV1FrqwZyKw",
-        "imgUrl": "https://i.ytimg.com/vi/wV1FrqwZyKw/mqdefault.jpg",
+        "url": "pco91kroVgQ",
+        "imgUrl": "https://i.ytimg.com/vi/pco91kroVgQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5302,10 +4609,10 @@
         "duration": 212
       },
       {
-        "id": "2Abk1jAONjw",
+        "id": "QeWBS0JBNzQ",
         "title": "The Edge of Glory",
-        "url": "2Abk1jAONjw",
-        "imgUrl": "https://i.ytimg.com/vi/2Abk1jAONjw/mqdefault.jpg",
+        "url": "QeWBS0JBNzQ",
+        "imgUrl": "https://i.ytimg.com/vi/QeWBS0JBNzQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5314,10 +4621,10 @@
         "duration": 321
       },
       {
-        "id": "X9YMU0WeBwU",
+        "id": "en2D_5TzXCA",
         "title": "Million Reasons",
-        "url": "X9YMU0WeBwU",
-        "imgUrl": "https://i.ytimg.com/vi/X9YMU0WeBwU/mqdefault.jpg",
+        "url": "en2D_5TzXCA",
+        "imgUrl": "https://i.ytimg.com/vi/en2D_5TzXCA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5333,11 +4640,12 @@
         "txt": "Lady Gaga is glam, bold, and iconic 👠🎤"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Jennifer Lopez Essentials",
-    "tags": ["Pop", "Latin Pop", "Dance"],
+    "tags": ["Pop", "Workout", "Dance", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -5346,10 +4654,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "p9qtT1BOjGw",
+        "id": "t4H_Zoh7G5A",
         "title": "On The Floor (feat. Pitbull)",
-        "url": "p9qtT1BOjGw",
-        "imgUrl": "https://i.ytimg.com/vi/p9qtT1BOjGw/mqdefault.jpg",
+        "url": "t4H_Zoh7G5A",
+        "imgUrl": "https://i.ytimg.com/vi/t4H_Zoh7G5A/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5358,10 +4666,10 @@
         "duration": 271
       },
       {
-        "id": "4P5s6bqZt4o",
+        "id": "Pgmx7z49OEk",
         "title": "Ain't Your Mama",
-        "url": "4P5s6bqZt4o",
-        "imgUrl": "https://i.ytimg.com/vi/4P5s6bqZt4o/mqdefault.jpg",
+        "url": "Pgmx7z49OEk",
+        "imgUrl": "https://i.ytimg.com/vi/Pgmx7z49OEk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5370,10 +4678,10 @@
         "duration": 223
       },
       {
-        "id": "dly6p4Fu5TE",
+        "id": "lYfkl-HXfuU",
         "title": "If You Had My Love",
-        "url": "dly6p4Fu5TE",
-        "imgUrl": "https://i.ytimg.com/vi/dly6p4Fu5TE/mqdefault.jpg",
+        "url": "lYfkl-HXfuU",
+        "imgUrl": "https://i.ytimg.com/vi/lYfkl-HXfuU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5382,10 +4690,10 @@
         "duration": 267
       },
       {
-        "id": "1hJKhiewcY4",
+        "id": "4kGvlESGvbs",
         "title": "Love Don't Cost a Thing",
-        "url": "1hJKhiewcY4",
-        "imgUrl": "https://i.ytimg.com/vi/1hJKhiewcY4/mqdefault.jpg",
+        "url": "4kGvlESGvbs",
+        "imgUrl": "https://i.ytimg.com/vi/4kGvlESGvbs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5394,10 +4702,10 @@
         "duration": 223
       },
       {
-        "id": "hJ6Xv1gk3zY",
+        "id": "dly6p4Fu5TE",
         "title": "Jenny from the Block",
-        "url": "hJ6Xv1gk3zY",
-        "imgUrl": "https://i.ytimg.com/vi/hJ6Xv1gk3zY/mqdefault.jpg",
+        "url": "dly6p4Fu5TE",
+        "imgUrl": "https://i.ytimg.com/vi/dly6p4Fu5TE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5406,10 +4714,10 @@
         "duration": 210
       },
       {
-        "id": "YOEJj7G-oGk",
+        "id": "8R7Tw1XOmXI",
         "title": "Let's Get Loud",
-        "url": "YOEJj7G-oGk",
-        "imgUrl": "https://i.ytimg.com/vi/YOEJj7G-oGk/mqdefault.jpg",
+        "url": "8R7Tw1XOmXI",
+        "imgUrl": "https://i.ytimg.com/vi/8R7Tw1XOmXI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5418,10 +4726,10 @@
         "duration": 236
       },
       {
-        "id": "Ef27ZTVtCsQ",
+        "id": "Sjx9oSJDAVQ",
         "title": "I'm Real (feat. Ja Rule)",
-        "url": "Ef27ZTVtCsQ",
-        "imgUrl": "https://i.ytimg.com/vi/Ef27ZTVtCsQ/mqdefault.jpg",
+        "url": "Sjx9oSJDAVQ",
+        "imgUrl": "https://i.ytimg.com/vi/Sjx9oSJDAVQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5430,10 +4738,10 @@
         "duration": 272
       },
       {
-        "id": "RzuXZfKg2YM",
+        "id": "_66jPJVS4JE",
         "title": "Waiting for Tonight",
-        "url": "RzuXZfKg2YM",
-        "imgUrl": "https://i.ytimg.com/vi/RzuXZfKg2YM/mqdefault.jpg",
+        "url": "_66jPJVS4JE",
+        "imgUrl": "https://i.ytimg.com/vi/_66jPJVS4JE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5442,10 +4750,10 @@
         "duration": 268
       },
       {
-        "id": "5uEdKVzZB3U",
+        "id": "bjgFH01k0gU",
         "title": "Dance Again (feat. Pitbull)",
-        "url": "5uEdKVzZB3U",
-        "imgUrl": "https://i.ytimg.com/vi/5uEdKVzZB3U/mqdefault.jpg",
+        "url": "bjgFH01k0gU",
+        "imgUrl": "https://i.ytimg.com/vi/bjgFH01k0gU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5454,10 +4762,10 @@
         "duration": 263
       },
       {
-        "id": "FeCZ7rN0QHY",
+        "id": "6XbIuSLaCnk",
         "title": "Papi",
-        "url": "FeCZ7rN0QHY",
-        "imgUrl": "https://i.ytimg.com/vi/FeCZ7rN0QHY/mqdefault.jpg",
+        "url": "6XbIuSLaCnk",
+        "imgUrl": "https://i.ytimg.com/vi/6XbIuSLaCnk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5473,11 +4781,12 @@
         "txt": "J.Lo brings all the fire, fashion and fierce beats 💃🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Christina Aguilera Essentials",
-    "tags": ["Pop", "Soul", "Power Vocals"],
+    "tags": ["Pop", "Soul", "Power Vocals", "Energy"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -5546,42 +4855,6 @@
         "duration": 299
       },
       {
-        "id": "xB_cWl2S2zM",
-        "title": "Candyman",
-        "url": "xB_cWl2S2zM",
-        "imgUrl": "https://i.ytimg.com/vi/xB_cWl2S2zM/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Christina Aguilera",
-        "album": "Back to Basics",
-        "duration": 229
-      },
-      {
-        "id": "KSU_1vJbEwU",
-        "title": "What a Girl Wants",
-        "url": "KSU_1vJbEwU",
-        "imgUrl": "https://i.ytimg.com/vi/KSU_1vJbEwU/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Christina Aguilera",
-        "album": "Christina Aguilera",
-        "duration": 215
-      },
-      {
-        "id": "7OYkWS3OI1M",
-        "title": "Keeps Gettin' Better",
-        "url": "7OYkWS3OI1M",
-        "imgUrl": "https://i.ytimg.com/vi/7OYkWS3OI1M/mqdefault.jpg",
-        "addedBy": "{minimal-user}",
-        "likedBy": ["{minimal-user}"],
-        "addedAt": 1746986007370,
-        "artist": "Christina Aguilera",
-        "album": "Keeps Gettin' Better: A Decade of Hits",
-        "duration": 207
-      },
-      {
         "id": "KtNYA4pAGjI",
         "title": "Not Myself Tonight",
         "url": "KtNYA4pAGjI",
@@ -5638,10 +4911,10 @@
         "duration": 252
       },
       {
-        "id": "2UGZJ6j_i1k",
+        "id": "VCLxJd1d84s",
         "title": "Buttons (feat. Snoop Dogg)",
-        "url": "2UGZJ6j_i1k",
-        "imgUrl": "https://i.ytimg.com/vi/2UGZJ6j_i1k/mqdefault.jpg",
+        "url": "VCLxJd1d84s",
+        "imgUrl": "https://i.ytimg.com/vi/VCLxJd1d84s/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5650,10 +4923,10 @@
         "duration": 227
       },
       {
-        "id": "QGJuMBdaqIw",
+        "id": "K0K46C82v9o",
         "title": "When I Grow Up",
-        "url": "QGJuMBdaqIw",
-        "imgUrl": "https://i.ytimg.com/vi/QGJuMBdaqIw/mqdefault.jpg",
+        "url": "K0K46C82v9o",
+        "imgUrl": "https://i.ytimg.com/vi/K0K46C82v9o/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5662,10 +4935,10 @@
         "duration": 230
       },
       {
-        "id": "Pfyw_Yn1aE4",
+        "id": "K1uNjmxJQUo",
         "title": "Stickwitu",
-        "url": "Pfyw_Yn1aE4",
-        "imgUrl": "https://i.ytimg.com/vi/Pfyw_Yn1aE4/mqdefault.jpg",
+        "url": "K1uNjmxJQUo",
+        "imgUrl": "https://i.ytimg.com/vi/K1uNjmxJQUo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5674,10 +4947,10 @@
         "duration": 221
       },
       {
-        "id": "K1u22hUfxiY",
+        "id": "S97MaG3kOMY",
         "title": "I Hate This Part",
-        "url": "K1u22hUfxiY",
-        "imgUrl": "https://i.ytimg.com/vi/K1u22hUfxiY/mqdefault.jpg",
+        "url": "S97MaG3kOMY",
+        "imgUrl": "https://i.ytimg.com/vi/S97MaG3kOMY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5686,10 +4959,10 @@
         "duration": 233
       },
       {
-        "id": "w8hPI0DhfJA",
+        "id": "1r9ghI7YcL0",
         "title": "Beep (feat. will.i.am)",
-        "url": "w8hPI0DhfJA",
-        "imgUrl": "https://i.ytimg.com/vi/w8hPI0DhfJA/mqdefault.jpg",
+        "url": "1r9ghI7YcL0",
+        "imgUrl": "https://i.ytimg.com/vi/1r9ghI7YcL0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5698,10 +4971,10 @@
         "duration": 231
       },
       {
-        "id": "QZdjNOzyL-s",
+        "id": "3BBsF7VIQyo",
         "title": "Hush Hush; Hush Hush",
-        "url": "QZdjNOzyL-s",
-        "imgUrl": "https://i.ytimg.com/vi/QZdjNOzyL-s/mqdefault.jpg",
+        "url": "3BBsF7VIQyo",
+        "imgUrl": "https://i.ytimg.com/vi/3BBsF7VIQyo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5710,10 +4983,10 @@
         "duration": 268
       },
       {
-        "id": "wSzgSM_mi9Y",
+        "id": "LpGFhuokOXw",
         "title": "Whatcha Think About That (feat. Missy Elliott)",
-        "url": "wSzgSM_mi9Y",
-        "imgUrl": "https://i.ytimg.com/vi/wSzgSM_mi9Y/mqdefault.jpg",
+        "url": "LpGFhuokOXw",
+        "imgUrl": "https://i.ytimg.com/vi/LpGFhuokOXw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5722,10 +4995,10 @@
         "duration": 217
       },
       {
-        "id": "PgTZcU6N_6A",
+        "id": "iWyvMerss4w",
         "title": "Wait a Minute (feat. Timbaland)",
-        "url": "PgTZcU6N_6A",
-        "imgUrl": "https://i.ytimg.com/vi/PgTZcU6N_6A/mqdefault.jpg",
+        "url": "iWyvMerss4w",
+        "imgUrl": "https://i.ytimg.com/vi/iWyvMerss4w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5734,10 +5007,10 @@
         "duration": 221
       },
       {
-        "id": "QGJuMBdaqIw",
+        "id": "73z_CI1Ic9U",
         "title": "Bottle Pop",
-        "url": "QGJuMBdaqIw",
-        "imgUrl": "https://i.ytimg.com/vi/QGJuMBdaqIw/mqdefault.jpg",
+        "url": "73z_CI1Ic9U",
+        "imgUrl": "https://i.ytimg.com/vi/73z_CI1Ic9U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5753,7 +5026,8 @@
         "txt": "The Pussycat Dolls? ICONIC energy 😻🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Destiny's Child Essentials",
@@ -5766,10 +5040,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "sQgd6MccwZc",
+        "id": "Wmc8bQoL-J0",
         "title": "Survivor",
-        "url": "sQgd6MccwZc",
-        "imgUrl": "https://i.ytimg.com/vi/sQgd6MccwZc/mqdefault.jpg",
+        "url": "Wmc8bQoL-J0",
+        "imgUrl": "https://i.ytimg.com/vi/Wmc8bQoL-J0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5778,10 +5052,10 @@
         "duration": 238
       },
       {
-        "id": "8WEtxJ4-sh4",
+        "id": "sQgd6MccwZc",
         "title": "Say My Name",
-        "url": "8WEtxJ4-sh4",
-        "imgUrl": "https://i.ytimg.com/vi/8WEtxJ4-sh4/mqdefault.jpg",
+        "url": "sQgd6MccwZc",
+        "imgUrl": "https://i.ytimg.com/vi/sQgd6MccwZc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5790,10 +5064,10 @@
         "duration": 242
       },
       {
-        "id": "kY9l1N3G8oY",
+        "id": "IyYnnUcgeMc",
         "title": "Bootylicious",
-        "url": "kY9l1N3G8oY",
-        "imgUrl": "https://i.ytimg.com/vi/kY9l1N3G8oY/mqdefault.jpg",
+        "url": "IyYnnUcgeMc",
+        "imgUrl": "https://i.ytimg.com/vi/IyYnnUcgeMc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5802,10 +5076,10 @@
         "duration": 211
       },
       {
-        "id": "sQgd6MccwZc",
+        "id": "0lPQZni7I18",
         "title": "Independent Women, Pt. 1",
-        "url": "sQgd6MccwZc",
-        "imgUrl": "https://i.ytimg.com/vi/sQgd6MccwZc/mqdefault.jpg",
+        "url": "0lPQZni7I18",
+        "imgUrl": "https://i.ytimg.com/vi/0lPQZni7I18/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5826,10 +5100,10 @@
         "duration": 208
       },
       {
-        "id": "r1n6Nkm4z-M",
+        "id": "NiF6-0UTqtc",
         "title": "Bills, Bills, Bills",
-        "url": "r1n6Nkm4z-M",
-        "imgUrl": "https://i.ytimg.com/vi/r1n6Nkm4z-M/mqdefault.jpg",
+        "url": "NiF6-0UTqtc",
+        "imgUrl": "https://i.ytimg.com/vi/NiF6-0UTqtc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5838,10 +5112,10 @@
         "duration": 244
       },
       {
-        "id": "a01QQZyl-_I",
+        "id": "juqws1LIH-I",
         "title": "Cater 2 U",
-        "url": "a01QQZyl-_I",
-        "imgUrl": "https://i.ytimg.com/vi/a01QQZyl-_I/mqdefault.jpg",
+        "url": "juqws1LIH-I",
+        "imgUrl": "https://i.ytimg.com/vi/juqws1LIH-I/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5850,10 +5124,10 @@
         "duration": 248
       },
       {
-        "id": "xS6TgmyM3X8",
+        "id": "xWKdMmH0B-E",
         "title": "Emotion",
-        "url": "xS6TgmyM3X8",
-        "imgUrl": "https://i.ytimg.com/vi/xS6TgmyM3X8/mqdefault.jpg",
+        "url": "xWKdMmH0B-E",
+        "imgUrl": "https://i.ytimg.com/vi/xWKdMmH0B-E/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5862,10 +5136,10 @@
         "duration": 234
       },
       {
-        "id": "h1NA3fGJ0_w",
+        "id": "AqeIiF0DlTg",
         "title": "Lose My Breath",
-        "url": "h1NA3fGJ0_w",
-        "imgUrl": "https://i.ytimg.com/vi/h1NA3fGJ0_w/mqdefault.jpg",
+        "url": "AqeIiF0DlTg",
+        "imgUrl": "https://i.ytimg.com/vi/AqeIiF0DlTg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5874,10 +5148,10 @@
         "duration": 230
       },
       {
-        "id": "tWbLkXhGEmo",
+        "id": "ZIszesDaK9U",
         "title": "Girl",
-        "url": "tWbLkXhGEmo",
-        "imgUrl": "https://i.ytimg.com/vi/tWbLkXhGEmo/mqdefault.jpg",
+        "url": "ZIszesDaK9U",
+        "imgUrl": "https://i.ytimg.com/vi/ZIszesDaK9U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5893,7 +5167,8 @@
         "txt": "Destiny's Child = power, harmonies, and ICONIC era 👑✨"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Jay-Z Essentials",
@@ -5906,10 +5181,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "LU13MRtSD7I",
+        "id": "vk6014HuxcE",
         "title": "Empire State of Mind (feat. Alicia Keys)",
-        "url": "LU13MRtSD7I",
-        "imgUrl": "https://i.ytimg.com/vi/LU13MRtSD7I/mqdefault.jpg",
+        "url": "vk6014HuxcE",
+        "imgUrl": "https://i.ytimg.com/vi/vk6014HuxcE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5918,10 +5193,10 @@
         "duration": 276
       },
       {
-        "id": "vKQWUyD74mE",
+        "id": "0YdLT0rL6L4",
         "title": "99 Problems",
-        "url": "vKQWUyD74mE",
-        "imgUrl": "https://i.ytimg.com/vi/vKQWUyD74mE/mqdefault.jpg",
+        "url": "0YdLT0rL6L4",
+        "imgUrl": "https://i.ytimg.com/vi/0YdLT0rL6L4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5930,10 +5205,10 @@
         "duration": 211
       },
       {
-        "id": "6yN3JjzMyzE",
+        "id": "lpZgKI97K1M",
         "title": "Hard Knock Life (Ghetto Anthem)",
-        "url": "6yN3JjzMyzE",
-        "imgUrl": "https://i.ytimg.com/vi/6yN3JjzMyzE/mqdefault.jpg",
+        "url": "lpZgKI97K1M",
+        "imgUrl": "https://i.ytimg.com/vi/lpZgKI97K1M/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5942,10 +5217,10 @@
         "duration": 239
       },
       {
-        "id": "A1lZXT-55m0",
+        "id": "Oz_-VaTHpc8",
         "title": "Dirt Off Your Shoulder",
-        "url": "A1lZXT-55m0",
-        "imgUrl": "https://i.ytimg.com/vi/A1lZXT-55m0/mqdefault.jpg",
+        "url": "Oz_-VaTHpc8",
+        "imgUrl": "https://i.ytimg.com/vi/Oz_-VaTHpc8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5954,10 +5229,10 @@
         "duration": 248
       },
       {
-        "id": "TMZi25Pq3T8",
+        "id": "GRKmpn3SBdw",
         "title": "Izzo (H.O.V.A.)",
-        "url": "TMZi25Pq3T8",
-        "imgUrl": "https://i.ytimg.com/vi/TMZi25Pq3T8/mqdefault.jpg",
+        "url": "GRKmpn3SBdw",
+        "imgUrl": "https://i.ytimg.com/vi/GRKmpn3SBdw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5966,10 +5241,10 @@
         "duration": 224
       },
       {
-        "id": "kK6zY4xKLIo",
+        "id": "Cgoqrgc_0cM",
         "title": "Big Pimpin’",
-        "url": "kK6zY4xKLIo",
-        "imgUrl": "https://i.ytimg.com/vi/kK6zY4xKLIo/mqdefault.jpg",
+        "url": "Cgoqrgc_0cM",
+        "imgUrl": "https://i.ytimg.com/vi/Cgoqrgc_0cM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5978,10 +5253,10 @@
         "duration": 257
       },
       {
-        "id": "6WJFjXtHcy4",
+        "id": "gG_dA32oH44",
         "title": "Ni**as In Paris (with Kanye West)",
-        "url": "6WJFjXtHcy4",
-        "imgUrl": "https://i.ytimg.com/vi/6WJFjXtHcy4/mqdefault.jpg",
+        "url": "gG_dA32oH44",
+        "imgUrl": "https://i.ytimg.com/vi/gG_dA32oH44/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -5990,10 +5265,10 @@
         "duration": 224
       },
       {
-        "id": "tJKaRGuFZ6I",
+        "id": "MaQZF0msXxE",
         "title": "Encore",
-        "url": "tJKaRGuFZ6I",
-        "imgUrl": "https://i.ytimg.com/vi/tJKaRGuFZ6I/mqdefault.jpg",
+        "url": "MaQZF0msXxE",
+        "imgUrl": "https://i.ytimg.com/vi/MaQZF0msXxE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6002,10 +5277,10 @@
         "duration": 190
       },
       {
-        "id": "aXfWj7zg5dI",
+        "id": "5W1WirHKz0U",
         "title": "Can I Get A… (feat. Amil & Ja Rule)",
-        "url": "aXfWj7zg5dI",
-        "imgUrl": "https://i.ytimg.com/vi/aXfWj7zg5dI/mqdefault.jpg",
+        "url": "5W1WirHKz0U",
+        "imgUrl": "https://i.ytimg.com/vi/5W1WirHKz0U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6014,10 +5289,10 @@
         "duration": 266
       },
       {
-        "id": "kXr2vm_YObE",
+        "id": "ztygmWtWCjQ",
         "title": "Run This Town (feat. Rihanna & Kanye West)",
-        "url": "kXr2vm_YObE",
-        "imgUrl": "https://i.ytimg.com/vi/kXr2vm_YObE/mqdefault.jpg",
+        "url": "ztygmWtWCjQ",
+        "imgUrl": "https://i.ytimg.com/vi/ztygmWtWCjQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6033,7 +5308,9 @@
         "txt": "Jay-Z = king of hustle and flow 🧠💼"
       }
     ]
-  },
+  }
+
+  ,
   {
     "type": "album",
     "name": "Drake Essentials",
@@ -6046,10 +5323,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "xWggTb45brQ",
+        "id": "xpVfcZ0ZcFM",
         "title": "God's Plan",
-        "url": "xWggTb45brQ",
-        "imgUrl": "https://i.ytimg.com/vi/xWggTb45brQ/mqdefault.jpg",
+        "url": "xpVfcZ0ZcFM",
+        "imgUrl": "https://i.ytimg.com/vi/xpVfcZ0ZcFM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6058,10 +5335,10 @@
         "duration": 198
       },
       {
-        "id": "xW1fXL3s7bk",
+        "id": "DRS_PpOrUZ4",
         "title": "In My Feelings",
-        "url": "xW1fXL3s7bk",
-        "imgUrl": "https://i.ytimg.com/vi/xW1fXL3s7bk/mqdefault.jpg",
+        "url": "DRS_PpOrUZ4",
+        "imgUrl": "https://i.ytimg.com/vi/DRS_PpOrUZ4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6082,10 +5359,10 @@
         "duration": 267
       },
       {
-        "id": "MXYCqZ2gG6Y",
+        "id": "RubBzkZzpUA",
         "title": "Started From the Bottom",
-        "url": "MXYCqZ2gG6Y",
-        "imgUrl": "https://i.ytimg.com/vi/MXYCqZ2gG6Y/mqdefault.jpg",
+        "url": "RubBzkZzpUA",
+        "imgUrl": "https://i.ytimg.com/vi/RubBzkZzpUA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6094,10 +5371,10 @@
         "duration": 157
       },
       {
-        "id": "xM84jJ7s9bM",
+        "id": "lJTRVX9R5EA",
         "title": "Nonstop",
-        "url": "xM84jJ7s9bM",
-        "imgUrl": "https://i.ytimg.com/vi/xM84jJ7s9bM/mqdefault.jpg",
+        "url": "lJTRVX9R5EA",
+        "imgUrl": "https://i.ytimg.com/vi/lJTRVX9R5EA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6106,10 +5383,10 @@
         "duration": 221
       },
       {
-        "id": "LZzzsV8Bz3M",
+        "id": "-zzP29emgpg",
         "title": "Take Care (feat. Rihanna)",
-        "url": "LZzzsV8Bz3M",
-        "imgUrl": "https://i.ytimg.com/vi/LZzzsV8Bz3M/mqdefault.jpg",
+        "url": "-zzP29emgpg",
+        "imgUrl": "https://i.ytimg.com/vi/-zzP29emgpg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6118,10 +5395,10 @@
         "duration": 245
       },
       {
-        "id": "ux-wn3cINIo",
+        "id": "qL7zrWcv6XY",
         "title": "One Dance (feat. Wizkid & Kyla)",
-        "url": "ux-wn3cINIo",
-        "imgUrl": "https://i.ytimg.com/vi/ux-wn3cINIo/mqdefault.jpg",
+        "url": "qL7zrWcv6XY",
+        "imgUrl": "https://i.ytimg.com/vi/qL7zrWcv6XY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6130,10 +5407,10 @@
         "duration": 173
       },
       {
-        "id": "DQcJg6W9p4w",
+        "id": "cimoNqiulUE",
         "title": "Headlines",
-        "url": "DQcJg6W9p4w",
-        "imgUrl": "https://i.ytimg.com/vi/DQcJg6W9p4w/mqdefault.jpg",
+        "url": "cimoNqiulUE",
+        "imgUrl": "https://i.ytimg.com/vi/cimoNqiulUE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6142,10 +5419,10 @@
         "duration": 214
       },
       {
-        "id": "XW7U9eW3f3k",
+        "id": "7LnBvuzjpr4",
         "title": "Energy",
-        "url": "XW7U9eW3f3k",
-        "imgUrl": "https://i.ytimg.com/vi/XW7U9eW3f3k/mqdefault.jpg",
+        "url": "7LnBvuzjpr4",
+        "imgUrl": "https://i.ytimg.com/vi/7LnBvuzjpr4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6154,10 +5431,10 @@
         "duration": 190
       },
       {
-        "id": "QuSBPVfbS3o",
+        "id": "1VAqaftzcC8",
         "title": "Marvins Room",
-        "url": "QuSBPVfbS3o",
-        "imgUrl": "https://i.ytimg.com/vi/QuSBPVfbS3o/mqdefault.jpg",
+        "url": "1VAqaftzcC8",
+        "imgUrl": "https://i.ytimg.com/vi/1VAqaftzcC8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6173,7 +5450,8 @@
         "txt": "Drake got us in our feelings and in the charts 💧🎧"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Missy Elliott Essentials",
@@ -6186,10 +5464,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "FPoKiGQzbSQ",
+        "id": "cjIvu7e6Wq8",
         "title": "Work It",
-        "url": "FPoKiGQzbSQ",
-        "imgUrl": "https://i.ytimg.com/vi/FPoKiGQzbSQ/mqdefault.jpg",
+        "url": "cjIvu7e6Wq8",
+        "imgUrl": "https://i.ytimg.com/vi/cjIvu7e6Wq8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6198,10 +5476,10 @@
         "duration": 268
       },
       {
-        "id": "UODX_pYpVxk",
+        "id": "FPoKiGQzbSQ",
         "title": "Get Ur Freak On",
-        "url": "UODX_pYpVxk",
-        "imgUrl": "https://i.ytimg.com/vi/UODX_pYpVxk/mqdefault.jpg",
+        "url": "FPoKiGQzbSQ",
+        "imgUrl": "https://i.ytimg.com/vi/FPoKiGQzbSQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6210,10 +5488,10 @@
         "duration": 238
       },
       {
-        "id": "1clH2-YkLPM",
+        "id": "na7lIb09898",
         "title": "Lose Control (feat. Ciara & Fatman Scoop)",
-        "url": "1clH2-YkLPM",
-        "imgUrl": "https://i.ytimg.com/vi/1clH2-YkLPM/mqdefault.jpg",
+        "url": "na7lIb09898",
+        "imgUrl": "https://i.ytimg.com/vi/na7lIb09898/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6222,10 +5500,10 @@
         "duration": 221
       },
       {
-        "id": "nivd8vEql5U",
+        "id": "phmelzh0VJc",
         "title": "Pass That Dutch",
-        "url": "nivd8vEql5U",
-        "imgUrl": "https://i.ytimg.com/vi/nivd8vEql5U/mqdefault.jpg",
+        "url": "phmelzh0VJc",
+        "imgUrl": "https://i.ytimg.com/vi/phmelzh0VJc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6234,10 +5512,10 @@
         "duration": 241
       },
       {
-        "id": "fG1EoC7FZ5c",
+        "id": "hHcyJPTTn9w",
         "title": "The Rain (Supa Dupa Fly)",
-        "url": "fG1EoC7FZ5c",
-        "imgUrl": "https://i.ytimg.com/vi/fG1EoC7FZ5c/mqdefault.jpg",
+        "url": "hHcyJPTTn9w",
+        "imgUrl": "https://i.ytimg.com/vi/hHcyJPTTn9w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6246,10 +5524,10 @@
         "duration": 267
       },
       {
-        "id": "b9D5CeA8RSM",
+        "id": "FRkev5Aooms",
         "title": "Hot Boyz (feat. Nas, Eve & Q-Tip)",
-        "url": "b9D5CeA8RSM",
-        "imgUrl": "https://i.ytimg.com/vi/b9D5CeA8RSM/mqdefault.jpg",
+        "url": "FRkev5Aooms",
+        "imgUrl": "https://i.ytimg.com/vi/FRkev5Aooms/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6258,10 +5536,10 @@
         "duration": 286
       },
       {
-        "id": "KHYj1-3wY5c",
+        "id": "XayUCLgxS5c",
         "title": "One Minute Man (feat. Ludacris)",
-        "url": "KHYj1-3wY5c",
-        "imgUrl": "https://i.ytimg.com/vi/KHYj1-3wY5c/mqdefault.jpg",
+        "url": "XayUCLgxS5c",
+        "imgUrl": "https://i.ytimg.com/vi/XayUCLgxS5c/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6270,10 +5548,10 @@
         "duration": 224
       },
       {
-        "id": "vD8vLz1pN50",
+        "id": "9UvBX3REqSY",
         "title": "Sock It 2 Me (feat. Da Brat)",
-        "url": "vD8vLz1pN50",
-        "imgUrl": "https://i.ytimg.com/vi/vD8vLz1pN50/mqdefault.jpg",
+        "url": "9UvBX3REqSY",
+        "imgUrl": "https://i.ytimg.com/vi/9UvBX3REqSY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6282,10 +5560,10 @@
         "duration": 257
       },
       {
-        "id": "bikDKZKBNd4",
+        "id": "Q33ujOhLV-E",
         "title": "Ching-a-Ling",
-        "url": "bikDKZKBNd4",
-        "imgUrl": "https://i.ytimg.com/vi/bikDKZKBNd4/mqdefault.jpg",
+        "url": "Q33ujOhLV-E",
+        "imgUrl": "https://i.ytimg.com/vi/Q33ujOhLV-E/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6294,10 +5572,10 @@
         "duration": 208
       },
       {
-        "id": "2KTc0uvmZ-c",
+        "id": "KO_3Qgib6RQ",
         "title": "WTF (Where They From) (feat. Pharrell Williams)",
-        "url": "2KTc0uvmZ-c",
-        "imgUrl": "https://i.ytimg.com/vi/2KTc0uvmZ-c/mqdefault.jpg",
+        "url": "KO_3Qgib6RQ",
+        "imgUrl": "https://i.ytimg.com/vi/KO_3Qgib6RQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6313,7 +5591,8 @@
         "txt": "Missy Elliott is the blueprint for creativity and beats 💥🎧"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "J. Cole Essentials",
@@ -6326,10 +5605,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "KOK1TMSyKcM",
+        "id": "nSERqaFagJc",
         "title": "No Role Modelz",
-        "url": "KOK1TMSyKcM",
-        "imgUrl": "https://i.ytimg.com/vi/KOK1TMSyKcM/mqdefault.jpg",
+        "url": "nSERqaFagJc",
+        "imgUrl": "https://i.ytimg.com/vi/nSERqaFagJc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6338,10 +5617,10 @@
         "duration": 294
       },
       {
-        "id": "qXo3NFqkaRM",
+        "id": "vHU6ZRQJ50Q",
         "title": "G.O.M.D.",
-        "url": "qXo3NFqkaRM",
-        "imgUrl": "https://i.ytimg.com/vi/qXo3NFqkaRM/mqdefault.jpg",
+        "url": "vHU6ZRQJ50Q",
+        "imgUrl": "https://i.ytimg.com/vi/vHU6ZRQJ50Q/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6350,10 +5629,10 @@
         "duration": 292
       },
       {
-        "id": "4qM8Z4WeAGM",
+        "id": "ZPCAvzIFY-s",
         "title": "Love Yourz",
-        "url": "4qM8Z4WeAGM",
-        "imgUrl": "https://i.ytimg.com/vi/4qM8Z4WeAGM/mqdefault.jpg",
+        "url": "ZPCAvzIFY-s",
+        "imgUrl": "https://i.ytimg.com/vi/ZPCAvzIFY-s/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6362,10 +5641,10 @@
         "duration": 225
       },
       {
-        "id": "w-7bJZp4FzQ",
+        "id": "WILNIXZr2oc",
         "title": "Middle Child",
-        "url": "w-7bJZp4FzQ",
-        "imgUrl": "https://i.ytimg.com/vi/w-7bJZp4FzQ/mqdefault.jpg",
+        "url": "WILNIXZr2oc",
+        "imgUrl": "https://i.ytimg.com/vi/WILNIXZr2oc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6374,10 +5653,10 @@
         "duration": 215
       },
       {
-        "id": "T9bW9HkYt4A",
+        "id": "HCURqfqL8sI",
         "title": "Fire Squad",
-        "url": "T9bW9HkYt4A",
-        "imgUrl": "https://i.ytimg.com/vi/T9bW9HkYt4A/mqdefault.jpg",
+        "url": "HCURqfqL8sI",
+        "imgUrl": "https://i.ytimg.com/vi/HCURqfqL8sI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6386,10 +5665,10 @@
         "duration": 266
       },
       {
-        "id": "eRaFMlZ1YHA",
+        "id": "7AjD7nKiUQ4",
         "title": "Power Trip (feat. Miguel)",
-        "url": "eRaFMlZ1YHA",
-        "imgUrl": "https://i.ytimg.com/vi/eRaFMlZ1YHA/mqdefault.jpg",
+        "url": "7AjD7nKiUQ4",
+        "imgUrl": "https://i.ytimg.com/vi/7AjD7nKiUQ4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6398,10 +5677,10 @@
         "duration": 241
       },
       {
-        "id": "O-3M8BRbUAs",
+        "id": "2hMy0rnHQv0",
         "title": "MOTIV8",
-        "url": "O-3M8BRbUAs",
-        "imgUrl": "https://i.ytimg.com/vi/O-3M8BRbUAs/mqdefault.jpg",
+        "url": "2hMy0rnHQv0",
+        "imgUrl": "https://i.ytimg.com/vi/2hMy0rnHQv0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6410,10 +5689,10 @@
         "duration": 186
       },
       {
-        "id": "TrD6Z-BN6oY",
+        "id": "eRaFMlZ1YHA",
         "title": "Apparently",
-        "url": "TrD6Z-BN6oY",
-        "imgUrl": "https://i.ytimg.com/vi/TrD6Z-BN6oY/mqdefault.jpg",
+        "url": "eRaFMlZ1YHA",
+        "imgUrl": "https://i.ytimg.com/vi/eRaFMlZ1YHA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6422,10 +5701,10 @@
         "duration": 274
       },
       {
-        "id": "qTLZGQmS2nw",
+        "id": "2_t0ffY3JvE",
         "title": "No Sleeep (feat. J. Cole)",
-        "url": "qTLZGQmS2nw",
-        "imgUrl": "https://i.ytimg.com/vi/qTLZGQmS2nw/mqdefault.jpg",
+        "url": "2_t0ffY3JvE",
+        "imgUrl": "https://i.ytimg.com/vi/2_t0ffY3JvE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6434,10 +5713,10 @@
         "duration": 260
       },
       {
-        "id": "b6W4NRK0tao",
+        "id": "L3Vo-KLTF4Y",
         "title": "Lights Please",
-        "url": "b6W4NRK0tao",
-        "imgUrl": "https://i.ytimg.com/vi/b6W4NRK0tao/mqdefault.jpg",
+        "url": "L3Vo-KLTF4Y",
+        "imgUrl": "https://i.ytimg.com/vi/L3Vo-KLTF4Y/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6453,7 +5732,8 @@
         "txt": "J. Cole speaks truth through every verse ✍️🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Bad Bunny Essentials",
@@ -6466,10 +5746,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "yBL5KmnGCQc",
+        "id": "Cr8K88UcO0s",
         "title": "Tití Me Preguntó",
-        "url": "yBL5KmnGCQc",
-        "imgUrl": "https://i.ytimg.com/vi/yBL5KmnGCQc/mqdefault.jpg",
+        "url": "Cr8K88UcO0s",
+        "imgUrl": "https://i.ytimg.com/vi/Cr8K88UcO0s/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6478,10 +5758,10 @@
         "duration": 260
       },
       {
-        "id": "2dSsHqU4ChA",
+        "id": "saGYMhApaH8",
         "title": "Me Porto Bonito",
-        "url": "2dSsHqU4ChA",
-        "imgUrl": "https://i.ytimg.com/vi/2dSsHqU4ChA/mqdefault.jpg",
+        "url": "saGYMhApaH8",
+        "imgUrl": "https://i.ytimg.com/vi/saGYMhApaH8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6490,10 +5770,10 @@
         "duration": 202
       },
       {
-        "id": "OSUxrSe5GbI",
+        "id": "acEOASYioGY",
         "title": "Callaita",
-        "url": "OSUxrSe5GbI",
-        "imgUrl": "https://i.ytimg.com/vi/OSUxrSe5GbI/mqdefault.jpg",
+        "url": "acEOASYioGY",
+        "imgUrl": "https://i.ytimg.com/vi/acEOASYioGY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6502,10 +5782,10 @@
         "duration": 254
       },
       {
-        "id": "3ePvwGzFBOc",
+        "id": "GtSRKwDCaZM",
         "title": "Yo Perreo Sola",
-        "url": "3ePvwGzFBOc",
-        "imgUrl": "https://i.ytimg.com/vi/3ePvwGzFBOc/mqdefault.jpg",
+        "url": "GtSRKwDCaZM",
+        "imgUrl": "https://i.ytimg.com/vi/GtSRKwDCaZM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6514,10 +5794,10 @@
         "duration": 184
       },
       {
-        "id": "wZxZ8uGzDrA",
+        "id": "LxOTsiV4tkQ",
         "title": "La Canción (with J Balvin)",
-        "url": "wZxZ8uGzDrA",
-        "imgUrl": "https://i.ytimg.com/vi/wZxZ8uGzDrA/mqdefault.jpg",
+        "url": "LxOTsiV4tkQ",
+        "imgUrl": "https://i.ytimg.com/vi/LxOTsiV4tkQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6526,10 +5806,10 @@
         "duration": 240
       },
       {
-        "id": "uE78Dz9D5u4",
+        "id": "p38WgakuYDo",
         "title": "Moscow Mule",
-        "url": "uE78Dz9D5u4",
-        "imgUrl": "https://i.ytimg.com/vi/uE78Dz9D5u4/mqdefault.jpg",
+        "url": "p38WgakuYDo",
+        "imgUrl": "https://i.ytimg.com/vi/p38WgakuYDo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6538,10 +5818,10 @@
         "duration": 220
       },
       {
-        "id": "Z8CWl9B2q78",
+        "id": "StOcfVeaZ60",
         "title": "Safaera",
-        "url": "Z8CWl9B2q78",
-        "imgUrl": "https://i.ytimg.com/vi/Z8CWl9B2q78/mqdefault.jpg",
+        "url": "StOcfVeaZ60",
+        "imgUrl": "https://i.ytimg.com/vi/StOcfVeaZ60/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6550,10 +5830,10 @@
         "duration": 303
       },
       {
-        "id": "6hVQZxRrcN0",
+        "id": "TmKh7lAwnBI",
         "title": "Dakiti (with Jhay Cortez)",
-        "url": "6hVQZxRrcN0",
-        "imgUrl": "https://i.ytimg.com/vi/6hVQZxRrcN0/mqdefault.jpg",
+        "url": "TmKh7lAwnBI",
+        "imgUrl": "https://i.ytimg.com/vi/TmKh7lAwnBI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6562,10 +5842,10 @@
         "duration": 206
       },
       {
-        "id": "8nMWQB5oFao",
+        "id": "4qt2P9Tcnhs",
         "title": "TE MUDASTE",
-        "url": "8nMWQB5oFao",
-        "imgUrl": "https://i.ytimg.com/vi/8nMWQB5oFao/mqdefault.jpg",
+        "url": "4qt2P9Tcnhs",
+        "imgUrl": "https://i.ytimg.com/vi/4qt2P9Tcnhs/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6574,10 +5854,10 @@
         "duration": 176
       },
       {
-        "id": "ssuCd6RHZVE",
+        "id": "Ll2rA7IpeNI",
         "title": "Un Preview",
-        "url": "ssuCd6RHZVE",
-        "imgUrl": "https://i.ytimg.com/vi/ssuCd6RHZVE/mqdefault.jpg",
+        "url": "Ll2rA7IpeNI",
+        "imgUrl": "https://i.ytimg.com/vi/Ll2rA7IpeNI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6593,7 +5873,8 @@
         "txt": "Bad Bunny = the king of modern Latin 🔥🐰"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Shakira Essentials",
@@ -6630,10 +5911,10 @@
         "duration": 218
       },
       {
-        "id": "6OM9k1xLw9k",
+        "id": "weRHyjj34ZE",
         "title": "Whenever, Wherever",
-        "url": "6OM9k1xLw9k",
-        "imgUrl": "https://i.ytimg.com/vi/6OM9k1xLw9k/mqdefault.jpg",
+        "url": "weRHyjj34ZE",
+        "imgUrl": "https://i.ytimg.com/vi/weRHyjj34ZE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6642,10 +5923,10 @@
         "duration": 196
       },
       {
-        "id": "zZV3kP6D1Gc",
+        "id": "6Mgqbai3fKo",
         "title": "Chantaje (feat. Maluma)",
-        "url": "zZV3kP6D1Gc",
-        "imgUrl": "https://i.ytimg.com/vi/zZV3kP6D1Gc/mqdefault.jpg",
+        "url": "6Mgqbai3fKo",
+        "imgUrl": "https://i.ytimg.com/vi/6Mgqbai3fKo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6654,10 +5935,10 @@
         "duration": 195
       },
       {
-        "id": "kYtGl1dX5qI",
+        "id": "-UV0QGLmYys",
         "title": "La Bicicleta (with Carlos Vives)",
-        "url": "kYtGl1dX5qI",
-        "imgUrl": "https://i.ytimg.com/vi/kYtGl1dX5qI/mqdefault.jpg",
+        "url": "-UV0QGLmYys",
+        "imgUrl": "https://i.ytimg.com/vi/-UV0QGLmYys/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6666,10 +5947,10 @@
         "duration": 222
       },
       {
-        "id": "zQrxG2dhFpw",
+        "id": "booKP974B0k",
         "title": "She Wolf",
-        "url": "zQrxG2dhFpw",
-        "imgUrl": "https://i.ytimg.com/vi/zQrxG2dhFpw/mqdefault.jpg",
+        "url": "booKP974B0k",
+        "imgUrl": "https://i.ytimg.com/vi/booKP974B0k/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6678,10 +5959,10 @@
         "duration": 189
       },
       {
-        "id": "2FzLO2mEOUQ",
+        "id": "C7ssrLSheg4",
         "title": "Loba",
-        "url": "2FzLO2mEOUQ",
-        "imgUrl": "https://i.ytimg.com/vi/2FzLO2mEOUQ/mqdefault.jpg",
+        "url": "C7ssrLSheg4",
+        "imgUrl": "https://i.ytimg.com/vi/C7ssrLSheg4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6690,10 +5971,10 @@
         "duration": 190
       },
       {
-        "id": "rHpA2c3wS7E",
+        "id": "XAhTt60W7qo",
         "title": "Loca (feat. El Cata)",
-        "url": "rHpA2c3wS7E",
-        "imgUrl": "https://i.ytimg.com/vi/rHpA2c3wS7E/mqdefault.jpg",
+        "url": "XAhTt60W7qo",
+        "imgUrl": "https://i.ytimg.com/vi/XAhTt60W7qo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6702,10 +5983,10 @@
         "duration": 202
       },
       {
-        "id": "3wZ_b_uUAdQ",
+        "id": "uwBwKcQ1k84",
         "title": "Underneath Your Clothes",
-        "url": "3wZ_b_uUAdQ",
-        "imgUrl": "https://i.ytimg.com/vi/3wZ_b_uUAdQ/mqdefault.jpg",
+        "url": "uwBwKcQ1k84",
+        "imgUrl": "https://i.ytimg.com/vi/uwBwKcQ1k84/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6714,10 +5995,10 @@
         "duration": 216
       },
       {
-        "id": "zXYUoCCzS4Q",
+        "id": "c6rP-YP4c5I",
         "title": "Try Everything",
-        "url": "zXYUoCCzS4Q",
-        "imgUrl": "https://i.ytimg.com/vi/zXYUoCCzS4Q/mqdefault.jpg",
+        "url": "c6rP-YP4c5I",
+        "imgUrl": "https://i.ytimg.com/vi/c6rP-YP4c5I/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6733,7 +6014,8 @@
         "txt": "Shakira brings fire, rhythm and heart to Latin pop 💃🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "J Balvin Essentials",
@@ -6758,10 +6040,10 @@
         "duration": 200
       },
       {
-        "id": "YV5ZkFnZL8c",
+        "id": "zZjSX01P5dE",
         "title": "Ginza",
-        "url": "YV5ZkFnZL8c",
-        "imgUrl": "https://i.ytimg.com/vi/YV5ZkFnZL8c/mqdefault.jpg",
+        "url": "zZjSX01P5dE",
+        "imgUrl": "https://i.ytimg.com/vi/zZjSX01P5dE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6770,10 +6052,10 @@
         "duration": 198
       },
       {
-        "id": "XyTLfFqRxj8",
+        "id": "JWESLtAKKlU",
         "title": "Safari (feat. Pharrell Williams, BIA, Sky)",
-        "url": "XyTLfFqRxj8",
-        "imgUrl": "https://i.ytimg.com/vi/XyTLfFqRxj8/mqdefault.jpg",
+        "url": "JWESLtAKKlU",
+        "imgUrl": "https://i.ytimg.com/vi/JWESLtAKKlU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6782,10 +6064,10 @@
         "duration": 214
       },
       {
-        "id": "Ywt5jKkzVxk",
+        "id": "zNl00mOSnJI",
         "title": "Loco Contigo (with DJ Snake & Tyga)",
-        "url": "Ywt5jKkzVxk",
-        "imgUrl": "https://i.ytimg.com/vi/Ywt5jKkzVxk/mqdefault.jpg",
+        "url": "zNl00mOSnJI",
+        "imgUrl": "https://i.ytimg.com/vi/zNl00mOSnJI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6794,10 +6076,10 @@
         "duration": 183
       },
       {
-        "id": "jWIhDoWtz10",
+        "id": "rzgw0XldTC0",
         "title": "Ambiente",
-        "url": "jWIhDoWtz10",
-        "imgUrl": "https://i.ytimg.com/vi/jWIhDoWtz10/mqdefault.jpg",
+        "url": "rzgw0XldTC0",
+        "imgUrl": "https://i.ytimg.com/vi/rzgw0XldTC0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6806,10 +6088,10 @@
         "duration": 222
       },
       {
-        "id": "gdu5C-dUlVI",
+        "id": "8j1xiiAZhIQ",
         "title": "Blanco",
-        "url": "gdu5C-dUlVI",
-        "imgUrl": "https://i.ytimg.com/vi/gdu5C-dUlVI/mqdefault.jpg",
+        "url": "8j1xiiAZhIQ",
+        "imgUrl": "https://i.ytimg.com/vi/8j1xiiAZhIQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6818,10 +6100,10 @@
         "duration": 175
       },
       {
-        "id": "mp1QfHjIHY0",
+        "id": "d5ZVaWxkAaQ",
         "title": "Morado",
-        "url": "mp1QfHjIHY0",
-        "imgUrl": "https://i.ytimg.com/vi/mp1QfHjIHY0/mqdefault.jpg",
+        "url": "d5ZVaWxkAaQ",
+        "imgUrl": "https://i.ytimg.com/vi/d5ZVaWxkAaQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6830,10 +6112,10 @@
         "duration": 174
       },
       {
-        "id": "w8RoHpejFsY",
+        "id": "_tG70FWd1Ds",
         "title": "Rojo",
-        "url": "w8RoHpejFsY",
-        "imgUrl": "https://i.ytimg.com/vi/w8RoHpejFsY/mqdefault.jpg",
+        "url": "_tG70FWd1Ds",
+        "imgUrl": "https://i.ytimg.com/vi/_tG70FWd1Ds/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6842,10 +6124,10 @@
         "duration": 236
       },
       {
-        "id": "L13y5v1v3e4",
+        "id": "zisuhZqTeH4",
         "title": "Qué Más Pues? (feat. María Becerra)",
-        "url": "L13y5v1v3e4",
-        "imgUrl": "https://i.ytimg.com/vi/L13y5v1v3e4/mqdefault.jpg",
+        "url": "zisuhZqTeH4",
+        "imgUrl": "https://i.ytimg.com/vi/zisuhZqTeH4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6854,10 +6136,10 @@
         "duration": 216
       },
       {
-        "id": "F68wQNXp8z8",
+        "id": "BoCOyLItePw",
         "title": "Que Locura",
-        "url": "F68wQNXp8z8",
-        "imgUrl": "https://i.ytimg.com/vi/F68wQNXp8z8/mqdefault.jpg",
+        "url": "BoCOyLItePw",
+        "imgUrl": "https://i.ytimg.com/vi/BoCOyLItePw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6873,11 +6155,12 @@
         "txt": "J Balvin = colorful reggaeton vibes 🌈🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Karol G Essentials",
-    "tags": ["Latin", "Pop", "Party"],
+    "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -6886,10 +6169,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "TmKh7lAwnBI",
+        "id": "jZGpkLElSu8",
         "title": "TQG (with Shakira)",
-        "url": "TmKh7lAwnBI",
-        "imgUrl": "https://i.ytimg.com/vi/TmKh7lAwnBI/mqdefault.jpg",
+        "url": "jZGpkLElSu8",
+        "imgUrl": "https://i.ytimg.com/vi/jZGpkLElSu8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6898,10 +6181,10 @@
         "duration": 222
       },
       {
-        "id": "Oq4vjU1i5Xk",
+        "id": "ca48oMV59LU",
         "title": "PROVENZA",
-        "url": "Oq4vjU1i5Xk",
-        "imgUrl": "https://i.ytimg.com/vi/Oq4vjU1i5Xk/mqdefault.jpg",
+        "url": "ca48oMV59LU",
+        "imgUrl": "https://i.ytimg.com/vi/ca48oMV59LU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6910,10 +6193,10 @@
         "duration": 217
       },
       {
-        "id": "QeHDcMepozY",
+        "id": "QaXhVryxVBk",
         "title": "BICHOTA",
-        "url": "QeHDcMepozY",
-        "imgUrl": "https://i.ytimg.com/vi/QeHDcMepozY/mqdefault.jpg",
+        "url": "QaXhVryxVBk",
+        "imgUrl": "https://i.ytimg.com/vi/QaXhVryxVBk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6922,10 +6205,10 @@
         "duration": 199
       },
       {
-        "id": "miOEmyjpLkU",
+        "id": "4NNRy_Wz16k",
         "title": "Ahora Me Llama (feat. Bad Bunny)",
-        "url": "miOEmyjpLkU",
-        "imgUrl": "https://i.ytimg.com/vi/miOEmyjpLkU/mqdefault.jpg",
+        "url": "4NNRy_Wz16k",
+        "imgUrl": "https://i.ytimg.com/vi/4NNRy_Wz16k/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6934,10 +6217,10 @@
         "duration": 203
       },
       {
-        "id": "x4qRzu_Kaow",
+        "id": "gyY5Z0TUWRY",
         "title": "Ocean",
-        "url": "x4qRzu_Kaow",
-        "imgUrl": "https://i.ytimg.com/vi/x4qRzu_Kaow/mqdefault.jpg",
+        "url": "gyY5Z0TUWRY",
+        "imgUrl": "https://i.ytimg.com/vi/gyY5Z0TUWRY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6946,10 +6229,10 @@
         "duration": 199
       },
       {
-        "id": "tNtcQg3ulL4",
+        "id": "D7fP9lnzt_Y",
         "title": "SEJODIOTO",
-        "url": "tNtcQg3ulL4",
-        "imgUrl": "https://i.ytimg.com/vi/tNtcQg3ulL4/mqdefault.jpg",
+        "url": "D7fP9lnzt_Y",
+        "imgUrl": "https://i.ytimg.com/vi/D7fP9lnzt_Y/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6958,10 +6241,10 @@
         "duration": 183
       },
       {
-        "id": "gk1Djv8lXqA",
+        "id": "Zdc3shRvumk",
         "title": "200 COPAS",
-        "url": "gk1Djv8lXqA",
-        "imgUrl": "https://i.ytimg.com/vi/gk1Djv8lXqA/mqdefault.jpg",
+        "url": "Zdc3shRvumk",
+        "imgUrl": "https://i.ytimg.com/vi/Zdc3shRvumk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6970,10 +6253,10 @@
         "duration": 221
       },
       {
-        "id": "FAJtrqKqklM",
+        "id": "Z02zptUN8gI",
         "title": "Cairo (feat. Ovy On The Drums)",
-        "url": "FAJtrqKqklM",
-        "imgUrl": "https://i.ytimg.com/vi/FAJtrqKqklM/mqdefault.jpg",
+        "url": "Z02zptUN8gI",
+        "imgUrl": "https://i.ytimg.com/vi/Z02zptUN8gI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6982,10 +6265,10 @@
         "duration": 212
       },
       {
-        "id": "AAhZME0bVZo",
+        "id": "_6HpI5i84w8",
         "title": "EL BARCO",
-        "url": "AAhZME0bVZo",
-        "imgUrl": "https://i.ytimg.com/vi/AAhZME0bVZo/mqdefault.jpg",
+        "url": "_6HpI5i84w8",
+        "imgUrl": "https://i.ytimg.com/vi/_6HpI5i84w8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -6994,10 +6277,10 @@
         "duration": 228
       },
       {
-        "id": "ZY0cdXr_1MA",
+        "id": "sDKnKzYyx5c",
         "title": "Créeme (with Maluma)",
-        "url": "ZY0cdXr_1MA",
-        "imgUrl": "https://i.ytimg.com/vi/ZY0cdXr_1MA/mqdefault.jpg",
+        "url": "sDKnKzYyx5c",
+        "imgUrl": "https://i.ytimg.com/vi/sDKnKzYyx5c/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7013,11 +6296,13 @@
         "txt": "Karol G is strength, sass, and pure Latina power 💖🔥"
       }
     ]
-  },
+  }
+
+  ,
   {
     "type": "album",
     "name": "Maluma Essentials",
-    "tags": ["Latin", "Pop", "Chill"],
+    "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -7026,10 +6311,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "pW5pG2U8zDI",
+        "id": "pK060iUFWXg",
         "title": "Hawái",
-        "url": "pW5pG2U8zDI",
-        "imgUrl": "https://i.ytimg.com/vi/pW5pG2U8zDI/mqdefault.jpg",
+        "url": "pK060iUFWXg",
+        "imgUrl": "https://i.ytimg.com/vi/pK060iUFWXg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7038,10 +6323,10 @@
         "duration": 203
       },
       {
-        "id": "6wWlgvqlocI",
+        "id": "t_jHrUE5IOk",
         "title": "Felices los 4",
-        "url": "6wWlgvqlocI",
-        "imgUrl": "https://i.ytimg.com/vi/6wWlgvqlocI/mqdefault.jpg",
+        "url": "t_jHrUE5IOk",
+        "imgUrl": "https://i.ytimg.com/vi/t_jHrUE5IOk/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7050,10 +6335,10 @@
         "duration": 229
       },
       {
-        "id": "MQZBaZaaD5M",
+        "id": "GmHrjFIWl6U",
         "title": "Corazón (feat. Nego do Borel)",
-        "url": "MQZBaZaaD5M",
-        "imgUrl": "https://i.ytimg.com/vi/MQZBaZaaD5M/mqdefault.jpg",
+        "url": "GmHrjFIWl6U",
+        "imgUrl": "https://i.ytimg.com/vi/GmHrjFIWl6U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7062,10 +6347,10 @@
         "duration": 193
       },
       {
-        "id": "7e47rdqvBlI",
+        "id": "lNBSdFw0t_w",
         "title": "ADMV",
-        "url": "7e47rdqvBlI",
-        "imgUrl": "https://i.ytimg.com/vi/7e47rdqvBlI/mqdefault.jpg",
+        "url": "lNBSdFw0t_w",
+        "imgUrl": "https://i.ytimg.com/vi/lNBSdFw0t_w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7074,10 +6359,10 @@
         "duration": 194
       },
       {
-        "id": "ZY0cdXr_1MA",
+        "id": "sDKnKzYyx5c",
         "title": "Créeme (with Karol G)",
-        "url": "ZY0cdXr_1MA",
-        "imgUrl": "https://i.ytimg.com/vi/ZY0cdXr_1MA/mqdefault.jpg",
+        "url": "sDKnKzYyx5c",
+        "imgUrl": "https://i.ytimg.com/vi/sDKnKzYyx5c/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7086,10 +6371,10 @@
         "duration": 205
       },
       {
-        "id": "efMYXWxXOkE",
+        "id": "RljdPIfnp0U",
         "title": "Sobrio",
-        "url": "efMYXWxXOkE",
-        "imgUrl": "https://i.ytimg.com/vi/efMYXWxXOkE/mqdefault.jpg",
+        "url": "RljdPIfnp0U",
+        "imgUrl": "https://i.ytimg.com/vi/RljdPIfnp0U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7098,10 +6383,10 @@
         "duration": 187
       },
       {
-        "id": "VbUo_G0BRq4",
+        "id": "Tgt6iaSYMEM",
         "title": "La Temperatura (feat. Eli Palacios)",
-        "url": "VbUo_G0BRq4",
-        "imgUrl": "https://i.ytimg.com/vi/VbUo_G0BRq4/mqdefault.jpg",
+        "url": "Tgt6iaSYMEM",
+        "imgUrl": "https://i.ytimg.com/vi/Tgt6iaSYMEM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7110,10 +6395,10 @@
         "duration": 240
       },
       {
-        "id": "OwCC5W5gNO0",
+        "id": "Xk0wdDTTPA0",
         "title": "Borro Cassette",
-        "url": "OwCC5W5gNO0",
-        "imgUrl": "https://i.ytimg.com/vi/OwCC5W5gNO0/mqdefault.jpg",
+        "url": "Xk0wdDTTPA0",
+        "imgUrl": "https://i.ytimg.com/vi/Xk0wdDTTPA0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7122,10 +6407,10 @@
         "duration": 231
       },
       {
-        "id": "vA3vmV5tk2k",
+        "id": "PJniSb91tvo",
         "title": "El Perdedor",
-        "url": "vA3vmV5tk2k",
-        "imgUrl": "https://i.ytimg.com/vi/vA3vmV5tk2k/mqdefault.jpg",
+        "url": "PJniSb91tvo",
+        "imgUrl": "https://i.ytimg.com/vi/PJniSb91tvo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7134,10 +6419,10 @@
         "duration": 233
       },
       {
-        "id": "duuxTGeW3gM",
+        "id": "iMEhjsiHbwM",
         "title": "HP",
-        "url": "duuxTGeW3gM",
-        "imgUrl": "https://i.ytimg.com/vi/duuxTGeW3gM/mqdefault.jpg",
+        "url": "iMEhjsiHbwM",
+        "imgUrl": "https://i.ytimg.com/vi/iMEhjsiHbwM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7153,11 +6438,12 @@
         "txt": "Maluma mixes romance, rhythm and pure charm 💋🎶"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Daddy Yankee Essentials",
-    "tags": ["Latin", "Party", "Energy"],
+    "tags": ["Latin", "Party", "Workout"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -7166,10 +6452,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "72UO0v5ESUo",
+        "id": "XtPY5kxjCWo",
         "title": "Gasolina",
-        "url": "72UO0v5ESUo",
-        "imgUrl": "https://i.ytimg.com/vi/72UO0v5ESUo/mqdefault.jpg",
+        "url": "XtPY5kxjCWo",
+        "imgUrl": "https://i.ytimg.com/vi/XtPY5kxjCWo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7178,10 +6464,10 @@
         "duration": 192
       },
       {
-        "id": "kJQP7kiw5Fk",
+        "id": "gGsqTwENFMI",
         "title": "Despacito (with Luis Fonsi)",
-        "url": "kJQP7kiw5Fk",
-        "imgUrl": "https://i.ytimg.com/vi/kJQP7kiw5Fk/mqdefault.jpg",
+        "url": "gGsqTwENFMI",
+        "imgUrl": "https://i.ytimg.com/vi/gGsqTwENFMI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7190,10 +6476,10 @@
         "duration": 229
       },
       {
-        "id": "Zy3yK6y5zJ0",
+        "id": "sGIm0-dQd8M",
         "title": "Dura",
-        "url": "Zy3yK6y5zJ0",
-        "imgUrl": "https://i.ytimg.com/vi/Zy3yK6y5zJ0/mqdefault.jpg",
+        "url": "sGIm0-dQd8M",
+        "imgUrl": "https://i.ytimg.com/vi/sGIm0-dQd8M/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7202,10 +6488,10 @@
         "duration": 199
       },
       {
-        "id": "gDhD1CP9C6Q",
+        "id": "DiItGE3eAyQ",
         "title": "Con Calma (feat. Snow)",
-        "url": "gDhD1CP9C6Q",
-        "imgUrl": "https://i.ytimg.com/vi/gDhD1CP9C6Q/mqdefault.jpg",
+        "url": "DiItGE3eAyQ",
+        "imgUrl": "https://i.ytimg.com/vi/DiItGE3eAyQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7214,10 +6500,10 @@
         "duration": 191
       },
       {
-        "id": "Rk-dHkz0tV4",
+        "id": "dRffAPlwlpY",
         "title": "Rompe",
-        "url": "Rk-dHkz0tV4",
-        "imgUrl": "https://i.ytimg.com/vi/Rk-dHkz0tV4/mqdefault.jpg",
+        "url": "dRffAPlwlpY",
+        "imgUrl": "https://i.ytimg.com/vi/dRffAPlwlpY/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7226,10 +6512,10 @@
         "duration": 202
       },
       {
-        "id": "XLXk8z1TiwM",
+        "id": "6BTjG-dhf5s",
         "title": "Limbo",
-        "url": "XLXk8z1TiwM",
-        "imgUrl": "https://i.ytimg.com/vi/XLXk8z1TiwM/mqdefault.jpg",
+        "url": "6BTjG-dhf5s",
+        "imgUrl": "https://i.ytimg.com/vi/6BTjG-dhf5s/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7238,10 +6524,10 @@
         "duration": 232
       },
       {
-        "id": "5cbs5d0T5yQ",
+        "id": "A13QPvFWqvo",
         "title": "La Nueva y La Ex",
-        "url": "5cbs5d0T5yQ",
-        "imgUrl": "https://i.ytimg.com/vi/5cbs5d0T5yQ/mqdefault.jpg",
+        "url": "A13QPvFWqvo",
+        "imgUrl": "https://i.ytimg.com/vi/A13QPvFWqvo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7250,10 +6536,10 @@
         "duration": 224
       },
       {
-        "id": "0RDF9tBf5vw",
+        "id": "aKuivabiOns",
         "title": "Shaky Shaky",
-        "url": "0RDF9tBf5vw",
-        "imgUrl": "https://i.ytimg.com/vi/0RDF9tBf5vw/mqdefault.jpg",
+        "url": "aKuivabiOns",
+        "imgUrl": "https://i.ytimg.com/vi/aKuivabiOns/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7262,10 +6548,10 @@
         "duration": 188
       },
       {
-        "id": "2xvTgXqkCts",
+        "id": "9TeyuDnwyrw",
         "title": "Lovumba",
-        "url": "2xvTgXqkCts",
-        "imgUrl": "https://i.ytimg.com/vi/2xvTgXqkCts/mqdefault.jpg",
+        "url": "9TeyuDnwyrw",
+        "imgUrl": "https://i.ytimg.com/vi/9TeyuDnwyrw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7274,10 +6560,10 @@
         "duration": 215
       },
       {
-        "id": "SHSDhSIyQoU",
+        "id": "IcWUy754seA",
         "title": "Somos de Calle",
-        "url": "SHSDhSIyQoU",
-        "imgUrl": "https://i.ytimg.com/vi/SHSDhSIyQoU/mqdefault.jpg",
+        "url": "IcWUy754seA",
+        "imgUrl": "https://i.ytimg.com/vi/IcWUy754seA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7293,11 +6579,12 @@
         "txt": "Daddy Yankee = the heartbeat of reggaeton 🚀🔥"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Rosalía Essentials",
-    "tags": ["Latin", "Pop", "Alternative"],
+    "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -7306,10 +6593,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "pok8H_KF1FA",
+        "id": "5g2hT4GmAGU",
         "title": "DESPECHÁ",
-        "url": "pok8H_KF1FA",
-        "imgUrl": "https://i.ytimg.com/vi/pok8H_KF1FA/mqdefault.jpg",
+        "url": "5g2hT4GmAGU",
+        "imgUrl": "https://i.ytimg.com/vi/5g2hT4GmAGU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7318,10 +6605,10 @@
         "duration": 135
       },
       {
-        "id": "OSoIcgY5w9o",
+        "id": "Rht7rBHuXW8",
         "title": "MALAMENTE (Cap.1: Augurio)",
-        "url": "OSoIcgY5w9o",
-        "imgUrl": "https://i.ytimg.com/vi/OSoIcgY5w9o/mqdefault.jpg",
+        "url": "Rht7rBHuXW8",
+        "imgUrl": "https://i.ytimg.com/vi/Rht7rBHuXW8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7330,10 +6617,10 @@
         "duration": 161
       },
       {
-        "id": "fJ_vKE6-E-0",
+        "id": "6o7bCAZSxsg",
         "title": "SAOKO",
-        "url": "fJ_vKE6-E-0",
-        "imgUrl": "https://i.ytimg.com/vi/fJ_vKE6-E-0/mqdefault.jpg",
+        "url": "6o7bCAZSxsg",
+        "imgUrl": "https://i.ytimg.com/vi/6o7bCAZSxsg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7342,10 +6629,10 @@
         "duration": 128
       },
       {
-        "id": "tnQUZV_T4Fc",
+        "id": "p_4coiRG_BI",
         "title": "PIENSO EN TU MIRÁ (Cap.3: Celos)",
-        "url": "tnQUZV_T4Fc",
-        "imgUrl": "https://i.ytimg.com/vi/tnQUZV_T4Fc/mqdefault.jpg",
+        "url": "p_4coiRG_BI",
+        "imgUrl": "https://i.ytimg.com/vi/p_4coiRG_BI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7354,10 +6641,10 @@
         "duration": 193
       },
       {
-        "id": "Rht7rBHuXW8",
+        "id": "e-CEd6xrRQc",
         "title": "LA FAMA (feat. The Weeknd)",
-        "url": "Rht7rBHuXW8",
-        "imgUrl": "https://i.ytimg.com/vi/Rht7rBHuXW8/mqdefault.jpg",
+        "url": "e-CEd6xrRQc",
+        "imgUrl": "https://i.ytimg.com/vi/e-CEd6xrRQc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7366,10 +6653,10 @@
         "duration": 213
       },
       {
-        "id": "JrbMkH1dvQg",
+        "id": "AATWZRnXRTo",
         "title": "BIZCOCHITO",
-        "url": "JrbMkH1dvQg",
-        "imgUrl": "https://i.ytimg.com/vi/JrbMkH1dvQg/mqdefault.jpg",
+        "url": "AATWZRnXRTo",
+        "imgUrl": "https://i.ytimg.com/vi/AATWZRnXRTo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7378,10 +6665,10 @@
         "duration": 105
       },
       {
-        "id": "GVv1D7xJ9sA",
+        "id": "mtym36PG6R8",
         "title": "Juro Que",
-        "url": "GVv1D7xJ9sA",
-        "imgUrl": "https://i.ytimg.com/vi/GVv1D7xJ9sA/mqdefault.jpg",
+        "url": "mtym36PG6R8",
+        "imgUrl": "https://i.ytimg.com/vi/mtym36PG6R8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7390,10 +6677,10 @@
         "duration": 160
       },
       {
-        "id": "AVxZ0xU0p98",
+        "id": "CLFUhty8EF4",
         "title": "Aute Cuture",
-        "url": "AVxZ0xU0p98",
-        "imgUrl": "https://i.ytimg.com/vi/AVxZ0xU0p98/mqdefault.jpg",
+        "url": "CLFUhty8EF4",
+        "imgUrl": "https://i.ytimg.com/vi/CLFUhty8EF4/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7402,22 +6689,22 @@
         "duration": 167
       },
       {
-        "id": "8_ywEKjz5Jk",
-        "title": "DOLOR",
-        "url": "8_ywEKjz5Jk",
-        "imgUrl": "https://i.ytimg.com/vi/8_ywEKjz5Jk/mqdefault.jpg",
+        "id": "VuUa9ZQL28w",
+        "title": "Dolerme",
+        "url": "VuUa9ZQL28w",
+        "imgUrl": "https://i.ytimg.com/vi/VuUa9ZQL28w/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
         "artist": "Rosalía",
-        "album": "MOTOMAMI",
+        "album": "Single",
         "duration": 122
       },
       {
-        "id": "1GFjO6ehzvE",
+        "id": "YT1ohp1KKLo",
         "title": "DELIRIO DE GRANDEZA",
-        "url": "1GFjO6ehzvE",
-        "imgUrl": "https://i.ytimg.com/vi/1GFjO6ehzvE/mqdefault.jpg",
+        "url": "YT1ohp1KKLo",
+        "imgUrl": "https://i.ytimg.com/vi/YT1ohp1KKLo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7433,11 +6720,12 @@
         "txt": "Rosalía blends tradition and innovation like no one else 🔥👑"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Luis Fonsi Essentials",
-    "tags": ["Latin", "Pop", "Love"],
+    "tags": ["Latin", "Love"],
     "createdBy": {
       "_id": "u101",
       "fullname": "Spotify",
@@ -7458,10 +6746,10 @@
         "duration": 229
       },
       {
-        "id": "VJ4kme1Gg8w",
+        "id": "TyHvyGVs42U",
         "title": "Échame La Culpa (feat. Demi Lovato)",
-        "url": "VJ4kme1Gg8w",
-        "imgUrl": "https://i.ytimg.com/vi/VJ4kme1Gg8w/mqdefault.jpg",
+        "url": "TyHvyGVs42U",
+        "imgUrl": "https://i.ytimg.com/vi/TyHvyGVs42U/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7470,10 +6758,10 @@
         "duration": 182
       },
       {
-        "id": "3T4DGqZtM1I",
+        "id": "EsfSuL-VFBw",
         "title": "Aquí Estoy Yo (feat. Aleks Syntek, Noel Schajris, David Bisbal)",
-        "url": "3T4DGqZtM1I",
-        "imgUrl": "https://i.ytimg.com/vi/3T4DGqZtM1I/mqdefault.jpg",
+        "url": "EsfSuL-VFBw",
+        "imgUrl": "https://i.ytimg.com/vi/EsfSuL-VFBw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7482,10 +6770,10 @@
         "duration": 270
       },
       {
-        "id": "KDp1tiUsZw8",
+        "id": "5721MLtOt9E",
         "title": "Imagíname Sin Ti",
-        "url": "KDp1tiUsZw8",
-        "imgUrl": "https://i.ytimg.com/vi/KDp1tiUsZw8/mqdefault.jpg",
+        "url": "5721MLtOt9E",
+        "imgUrl": "https://i.ytimg.com/vi/5721MLtOt9E/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7494,10 +6782,10 @@
         "duration": 232
       },
       {
-        "id": "nBmNcLBaPUE",
+        "id": "M1lGXi1yzF0",
         "title": "No Me Doy por Vencido",
-        "url": "nBmNcLBaPUE",
-        "imgUrl": "https://i.ytimg.com/vi/nBmNcLBaPUE/mqdefault.jpg",
+        "url": "M1lGXi1yzF0",
+        "imgUrl": "https://i.ytimg.com/vi/M1lGXi1yzF0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7506,10 +6794,10 @@
         "duration": 263
       },
       {
-        "id": "jUAhKBv65dE",
+        "id": "Ckw2lfuVTdM",
         "title": "Nada Es Para Siempre",
-        "url": "jUAhKBv65dE",
-        "imgUrl": "https://i.ytimg.com/vi/jUAhKBv65dE/mqdefault.jpg",
+        "url": "Ckw2lfuVTdM",
+        "imgUrl": "https://i.ytimg.com/vi/Ckw2lfuVTdM/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7518,10 +6806,10 @@
         "duration": 242
       },
       {
-        "id": "GJvxJDaYpV4",
+        "id": "yEM-3yMI6yc",
         "title": "Respira",
-        "url": "GJvxJDaYpV4",
-        "imgUrl": "https://i.ytimg.com/vi/GJvxJDaYpV4/mqdefault.jpg",
+        "url": "yEM-3yMI6yc",
+        "imgUrl": "https://i.ytimg.com/vi/yEM-3yMI6yc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7530,10 +6818,10 @@
         "duration": 227
       },
       {
-        "id": "nbUWYPvY7-4",
+        "id": "weKJWqw8-3g",
         "title": "Llegaste Tú (feat. Juan Luis Guerra)",
-        "url": "nbUWYPvY7-4",
-        "imgUrl": "https://i.ytimg.com/vi/nbUWYPvY7-4/mqdefault.jpg",
+        "url": "weKJWqw8-3g",
+        "imgUrl": "https://i.ytimg.com/vi/weKJWqw8-3g/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7542,10 +6830,10 @@
         "duration": 264
       },
       {
-        "id": "tdfPzI5Pv0A",
-        "title": "Quien Te Dijo Eso?",
-        "url": "tdfPzI5Pv0A",
-        "imgUrl": "https://i.ytimg.com/vi/tdfPzI5Pv0A/mqdefault.jpg",
+        "id": "DGyCNsFy4tw",
+        "title": "Quién Te Dijo Eso?",
+        "url": "DGyCNsFy4tw",
+        "imgUrl": "https://i.ytimg.com/vi/DGyCNsFy4tw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7554,10 +6842,10 @@
         "duration": 250
       },
       {
-        "id": "5D-K0j7_UAY",
+        "id": "MvDaL_D4fZQ",
         "title": "Claridad",
-        "url": "5D-K0j7_UAY",
-        "imgUrl": "https://i.ytimg.com/vi/5D-K0j7_UAY/mqdefault.jpg",
+        "url": "MvDaL_D4fZQ",
+        "imgUrl": "https://i.ytimg.com/vi/MvDaL_D4fZQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7573,7 +6861,8 @@
         "txt": "Luis Fonsi = ballads, fire and international hits 💘🎤"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Ozuna Essentials",
@@ -7586,10 +6875,10 @@
     "likedByUsers": ["{minimal-user}"],
     "songs": [
       {
-        "id": "DJnyYGv7R0w",
+        "id": "WAcnWtZjDWE",
         "title": "Dile Que Tú Me Quieres",
-        "url": "DJnyYGv7R0w",
-        "imgUrl": "https://i.ytimg.com/vi/DJnyYGv7R0w/mqdefault.jpg",
+        "url": "WAcnWtZjDWE",
+        "imgUrl": "https://i.ytimg.com/vi/WAcnWtZjDWE/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7598,10 +6887,10 @@
         "duration": 230
       },
       {
-        "id": "9e6vKfSgyek",
+        "id": "KWGrPNqz4uc",
         "title": "Se Preparó",
-        "url": "9e6vKfSgyek",
-        "imgUrl": "https://i.ytimg.com/vi/9e6vKfSgyek/mqdefault.jpg",
+        "url": "KWGrPNqz4uc",
+        "imgUrl": "https://i.ytimg.com/vi/KWGrPNqz4uc/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7610,10 +6899,10 @@
         "duration": 220
       },
       {
-        "id": "gP0N7jvCGoM",
+        "id": "ixkoVwKQaJg",
         "title": "Taki Taki (feat. Selena Gomez, Cardi B, DJ Snake)",
-        "url": "gP0N7jvCGoM",
-        "imgUrl": "https://i.ytimg.com/vi/gP0N7jvCGoM/mqdefault.jpg",
+        "url": "ixkoVwKQaJg",
+        "imgUrl": "https://i.ytimg.com/vi/ixkoVwKQaJg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7622,10 +6911,10 @@
         "duration": 204
       },
       {
-        "id": "G52dUQLxPzg",
+        "id": "BFlG5sD540k",
         "title": "Caramelo",
-        "url": "G52dUQLxPzg",
-        "imgUrl": "https://i.ytimg.com/vi/G52dUQLxPzg/mqdefault.jpg",
+        "url": "BFlG5sD540k",
+        "imgUrl": "https://i.ytimg.com/vi/BFlG5sD540k/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7634,10 +6923,10 @@
         "duration": 193
       },
       {
-        "id": "yWEK4v9AVKQ",
+        "id": "32F2d-wj4Xw",
         "title": "Baila Baila Baila",
-        "url": "yWEK4v9AVKQ",
-        "imgUrl": "https://i.ytimg.com/vi/yWEK4v9AVKQ/mqdefault.jpg",
+        "url": "32F2d-wj4Xw",
+        "imgUrl": "https://i.ytimg.com/vi/32F2d-wj4Xw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7646,10 +6935,10 @@
         "duration": 200
       },
       {
-        "id": "AdTqTt1zKNw",
+        "id": "X8sSXU-J8fI",
         "title": "La Modelo (feat. Cardi B)",
-        "url": "AdTqTt1zKNw",
-        "imgUrl": "https://i.ytimg.com/vi/AdTqTt1zKNw/mqdefault.jpg",
+        "url": "X8sSXU-J8fI",
+        "imgUrl": "https://i.ytimg.com/vi/X8sSXU-J8fI/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7658,10 +6947,10 @@
         "duration": 264
       },
       {
-        "id": "FbrrL3hPZSw",
+        "id": "9jI-z9QN6g8",
         "title": "Te Boté Remix",
-        "url": "FbrrL3hPZSw",
-        "imgUrl": "https://i.ytimg.com/vi/FbrrL3hPZSw/mqdefault.jpg",
+        "url": "9jI-z9QN6g8",
+        "imgUrl": "https://i.ytimg.com/vi/9jI-z9QN6g8/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7670,10 +6959,10 @@
         "duration": 405
       },
       {
-        "id": "7uYtJHyJfN0",
+        "id": "afUx6AIG3Tg",
         "title": "Tu Foto",
-        "url": "7uYtJHyJfN0",
-        "imgUrl": "https://i.ytimg.com/vi/7uYtJHyJfN0/mqdefault.jpg",
+        "url": "afUx6AIG3Tg",
+        "imgUrl": "https://i.ytimg.com/vi/afUx6AIG3Tg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7682,10 +6971,10 @@
         "duration": 234
       },
       {
-        "id": "mTRAvGiznF8",
+        "id": "Dvpd9_5vuks",
         "title": "Síguelo Bailando",
-        "url": "mTRAvGiznF8",
-        "imgUrl": "https://i.ytimg.com/vi/mTRAvGiznF8/mqdefault.jpg",
+        "url": "Dvpd9_5vuks",
+        "imgUrl": "https://i.ytimg.com/vi/Dvpd9_5vuks/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7694,10 +6983,10 @@
         "duration": 213
       },
       {
-        "id": "WQ7iyVT7sAg",
+        "id": "qjYJYOzTX4c",
         "title": "Luz Apaga (feat. Lunay, Anuel AA, Rauw Alejandro)",
-        "url": "WQ7iyVT7sAg",
-        "imgUrl": "https://i.ytimg.com/vi/WQ7iyVT7sAg/mqdefault.jpg",
+        "url": "qjYJYOzTX4c",
+        "imgUrl": "https://i.ytimg.com/vi/qjYJYOzTX4c/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7713,7 +7002,8 @@
         "txt": "Ozuna brings the rhythm and heart of Latin Pop 🐻🎶"
       }
     ]
-  },
+  }
+  ,
   {
     "type": "album",
     "name": "Selena Essentials",
@@ -7738,10 +7028,10 @@
         "duration": 189
       },
       {
-        "id": "W-PyZbKjXZU",
-        "title": "Como La Flor",
-        "url": "W-PyZbKjXZU",
-        "imgUrl": "https://i.ytimg.com/vi/W-PyZbKjXZU/mqdefault.jpg",
+        "id": "FwZTgDjRLM0",
+        "title": "Como La Flor (Live From Astrodome)",
+        "url": "FwZTgDjRLM0",
+        "imgUrl": "https://i.ytimg.com/vi/FwZTgDjRLM0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7750,10 +7040,10 @@
         "duration": 201
       },
       {
-        "id": "n2YBtR4gSso",
+        "id": "VRU2qs82DAg",
         "title": "Dreaming of You",
-        "url": "n2YBtR4gSso",
-        "imgUrl": "https://i.ytimg.com/vi/n2YBtR4gSso/mqdefault.jpg",
+        "url": "VRU2qs82DAg",
+        "imgUrl": "https://i.ytimg.com/vi/VRU2qs82DAg/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7762,10 +7052,10 @@
         "duration": 243
       },
       {
-        "id": "WJXbCi9xNvg",
+        "id": "dvfZ95ueOcQ",
         "title": "Amor Prohibido",
-        "url": "WJXbCi9xNvg",
-        "imgUrl": "https://i.ytimg.com/vi/WJXbCi9xNvg/mqdefault.jpg",
+        "url": "dvfZ95ueOcQ",
+        "imgUrl": "https://i.ytimg.com/vi/dvfZ95ueOcQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7774,10 +7064,10 @@
         "duration": 185
       },
       {
-        "id": "1HmxoqM88k8",
+        "id": "FCi-Xp2TVoQ",
         "title": "No Me Queda Más",
-        "url": "1HmxoqM88k8",
-        "imgUrl": "https://i.ytimg.com/vi/1HmxoqM88k8/mqdefault.jpg",
+        "url": "FCi-Xp2TVoQ",
+        "imgUrl": "https://i.ytimg.com/vi/FCi-Xp2TVoQ/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7786,10 +7076,10 @@
         "duration": 224
       },
       {
-        "id": "usHn0h8haD8",
+        "id": "XBCDvINm0Vo",
         "title": "I Could Fall in Love",
-        "url": "usHn0h8haD8",
-        "imgUrl": "https://i.ytimg.com/vi/usHn0h8haD8/mqdefault.jpg",
+        "url": "XBCDvINm0Vo",
+        "imgUrl": "https://i.ytimg.com/vi/XBCDvINm0Vo/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7798,10 +7088,10 @@
         "duration": 276
       },
       {
-        "id": "ttVWyX57DsE",
+        "id": "p0Az7ULwdvU",
         "title": "La Carcacha",
-        "url": "ttVWyX57DsE",
-        "imgUrl": "https://i.ytimg.com/vi/ttVWyX57DsE/mqdefault.jpg",
+        "url": "p0Az7ULwdvU",
+        "imgUrl": "https://i.ytimg.com/vi/p0Az7ULwdvU/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7810,10 +7100,10 @@
         "duration": 263
       },
       {
-        "id": "y1DvlpZMFlk",
+        "id": "MB812i7tOZA",
         "title": "Techno Cumbia",
-        "url": "y1DvlpZMFlk",
-        "imgUrl": "https://i.ytimg.com/vi/y1DvlpZMFlk/mqdefault.jpg",
+        "url": "MB812i7tOZA",
+        "imgUrl": "https://i.ytimg.com/vi/MB812i7tOZA/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7822,10 +7112,10 @@
         "duration": 217
       },
       {
-        "id": "bMeG7CHAHtI",
+        "id": "c3dCaCPIBJ0",
         "title": "Fotos y Recuerdos",
-        "url": "bMeG7CHAHtI",
-        "imgUrl": "https://i.ytimg.com/vi/bMeG7CHAHtI/mqdefault.jpg",
+        "url": "c3dCaCPIBJ0",
+        "imgUrl": "https://i.ytimg.com/vi/c3dCaCPIBJ0/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7834,10 +7124,10 @@
         "duration": 198
       },
       {
-        "id": "VdAj1W9RvkM",
-        "title": "El Chico del Apartamento 512",
-        "url": "VdAj1W9RvkM",
-        "imgUrl": "https://i.ytimg.com/vi/VdAj1W9RvkM/mqdefault.jpg",
+        "id": "_g2KBWNHdgw",
+        "title": "El Chico del Apartamento 512 (Live From Astrodome)",
+        "url": "_g2KBWNHdgw",
+        "imgUrl": "https://i.ytimg.com/vi/_g2KBWNHdgw/mqdefault.jpg",
         "addedBy": "{minimal-user}",
         "likedBy": ["{minimal-user}"],
         "addedAt": 1746986007370,
@@ -7854,6 +7144,7 @@
       }
     ]
   }
+
 
 
 
