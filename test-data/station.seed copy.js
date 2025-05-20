@@ -4,7 +4,7 @@
     "type": "playlist",
     "name": "Jazz & Chill",
     "tags": ["Jazz", "Relax"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "jazzNchill_okhsih" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "jazzNchill_okhsih" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -138,7 +138,7 @@
     "type": "playlist",
     "name": "Rock Classics",
     "tags": ["Rock", "Legends"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "rockclassics_wt0e6h" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "rockclassics_wt0e6h" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -296,7 +296,7 @@
     "type": "playlist",
     "name": "Workout Boost",
     "tags": ["Workout", "Energy"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "workoutboosy_gstrn6" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "workoutboosy_gstrn6" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -453,7 +453,7 @@
     "type": "playlist",
     "name": "Lofi Moods",
     "tags": ["Lofi", "Study"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "Lofi_Moods_cqwysk" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "Lofi_Moods_cqwysk" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -585,7 +585,7 @@
     "type": "playlist",
     "name": "Classical Calm",
     "tags": ["Classical", "Piano"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "classicalcalm_v0uct2" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "classicalcalm_v0uct2" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -742,7 +742,7 @@
     "type": "playlist",
     "name": "Reggae Vibes",
     "tags": ["Reggae", "Chill"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "ReggaeVibes_o7clhl" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "ReggaeVibes_o7clhl" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -887,7 +887,7 @@
     "type": "playlist",
     "name": "Electronic Pulse",
     "tags": ["EDM", "Party"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "ElectronicPulse_kcqv36" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "ElectronicPulse_kcqv36" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1032,7 +1032,7 @@
     "type": "playlist",
     "name": "Pop Hits",
     "tags": ["Pop", "Top 40"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "PopHits_xi3nbd" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "PopHits_xi3nbd" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1189,7 +1189,7 @@
     "type": "playlist",
     "name": "Soulful Sundays",
     "tags": ["Soul", "Smooth"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "SoulfulSundays_syks3t" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "SoulfulSundays_syks3t" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1346,7 +1346,7 @@
     "type": "playlist",
     "name": " הנבחרים של ישראל",
     "tags": ["Israeli", "Hebrew", "Hits", "2025", "Top 10"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "israeli_uj9ezq" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "israeli_uj9ezq" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1459,7 +1459,7 @@
     "type": "album",
     "name": "Led Zeppelin Essentials",
     "tags": ["Rock", "Essential", "Led Zeppelin"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "ledzeppelin_ugkqoa" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "ledzeppelin_ugkqoa" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1626,7 +1626,7 @@
     "type": "album",
     "name": "Pink Floyd Essentials",
     "tags": ["Rock", "Essential", "Pink Floyd"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "pink_floyd_bbjyas" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "pink_floyd_bbjyas" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1793,7 +1793,7 @@
     "type": "album",
     "name": "Muse Essentials",
     "tags": ["Rock", "Essential", "Muse"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "muse_ygjmw3" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "muse_ygjmw3" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -1947,7 +1947,7 @@
     "type": "album",
     "name": "Queens of the Stone Age Essentials",
     "tags": ["Rock", "Essential", "Queens of the Stone Age"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "qotsa_fqnowt" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "qotsa_fqnowt" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -2044,7 +2044,7 @@
     "tags": ["Pop", "Essential", "Workout", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "rihanah_smfacv"
     },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
@@ -2123,7 +2123,7 @@
     "type": "album",
     "name": "Justin Timberlake Essentials",
     "tags": ["Pop", "Essential", "Justin Timberlake"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "justin_jzufds" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "justin_jzufds" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -2193,7 +2193,7 @@
     "type": "album",
     "name": "Michael Jackson Essentials",
     "tags": ["Pop", "Essential", "Michael Jackson", "Legends"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "jackson_pzqdgu" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "jackson_pzqdgu" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -2266,7 +2266,7 @@
     "tags": ["Pop", "Essential", "Workout", "Legends", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "beyonce_kxezil"
     },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
@@ -2345,7 +2345,7 @@
     "type": "album",
     "name": "Ed Sheeran Essentials",
     "tags": ["Pop", "Essential", "Ed Sheeran"],
-    "createdBy": { "_id": "u101", "fullname": "Spotify", "imgUrl": "sheeran_kmm8sm" },
+    "createdBy": { "_id": "u101", "fullname": "Stupify", "imgUrl": "sheeran_kmm8sm" },
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
@@ -2418,7 +2418,7 @@
     "tags": ["Hip Hop", "Rap", "Tupac", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "tupac_pvqrmh"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2499,7 +2499,7 @@
     "tags": ["Hip Hop", "Rap", "Snoop Dogg", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "snoop_arddlj"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2580,7 +2580,7 @@
     "tags": ["Hip Hop", "Rap", "Eminem", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "eminem_dphl6o"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2660,7 +2660,7 @@
     "tags": ["Hip Hop", "Rap", "Kendrick Lamar", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "lamar_uvdyh2"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2740,7 +2740,7 @@
     "tags": ["Hip Hop", "Rap", "Nicki Minaj", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "ab67616d0000b2733a59af488fad9f093891b1ab_is2mvz"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2820,7 +2820,7 @@
     "tags": ["Alternative", "Electronic", "Gorillaz"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "gorillaz_fka6je"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -2900,7 +2900,7 @@
     "tags": ["Alternative", "Rock", "Radiohead", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "radiohead_trhikg"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3004,7 +3004,7 @@
     "tags": ["Alternative", "Psychedelic", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Tame_Impala_lfszsb"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3084,7 +3084,7 @@
     "tags": ["Electronic", "Chillwave"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "ODESZA_drzysf"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3140,7 +3140,7 @@
     "tags": ["Alternative", "Indie Rock", "Relax", "study", "chill"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Alt-J_js6vzh"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3232,7 +3232,7 @@
     "tags": ["Electronic", "Trip Hop"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Massive_Attack_cnnnal"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3348,7 +3348,7 @@
     "tags": ["Electronic", "Future Bass"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Flume_ezgmet"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3405,7 +3405,7 @@
     "tags": ["Rock", "Classic Rock"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Queen_eytyfv"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3545,7 +3545,7 @@
     "tags": ["Rock", "Grunge"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Nirvana_d5dchf"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3662,7 +3662,7 @@
     "tags": ["Rock", "Indie Rock"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Arctic_Monkeys_gaszpj"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3778,7 +3778,7 @@
     "tags": ["Rock", "Alternative Rock"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Foo_Fighters_rov2wn"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -3906,7 +3906,7 @@
     "tags": ["Rock", "Classic Rock"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "The_Rolling_Stones_uji1ju"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4010,7 +4010,7 @@
     "tags": ["Pop", "Pary", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Dua_Lipa_xqhxyh"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4090,7 +4090,7 @@
     "tags": ["Pop", "Indie Pop", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Harry_Styles_l2jzrv"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4225,7 +4225,7 @@
     "tags": ["Pop", "Workout", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Ariana_Grande_gojgom"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4367,7 +4367,7 @@
     "tags": ["Pop", "Workout", "Soul", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Bruno_Mars_tyvkmb"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4507,7 +4507,7 @@
     "tags": ["Pop", "Dance", "Workout", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Lady_Gaga_fhxhmw"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4648,7 +4648,7 @@
     "tags": ["Pop", "Workout", "Dance", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Jennifer_Lopez_rco8wq"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4789,7 +4789,7 @@
     "tags": ["Pop", "Soul", "Power Vocals", "Energy"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Christina_Aguilera_mlnyze"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -4893,7 +4893,7 @@
     "tags": ["Pop", "Dance", "R&B"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "The_Pussycat_Dolls_l1umyu"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5034,7 +5034,7 @@
     "tags": ["Pop", "R&B", "Girl Power"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Destiny_s_Child_g7cwa8"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5175,7 +5175,7 @@
     "tags": ["Hip Hop", "Rap", "East Coast"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Jay-Z_ylhhmi"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5317,7 +5317,7 @@
     "tags": ["Hip Hop", "Rap", "Pop Rap"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Drake_uklgjp"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5458,7 +5458,7 @@
     "tags": ["Hip Hop", "Rap", "Innovative"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Missy_Elliott_iigl3p"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5599,7 +5599,7 @@
     "tags": ["Hip Hop", "Rap", "Conscious Rap"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "J._Cole_jtkpg6"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5740,7 +5740,7 @@
     "tags": ["Latin", "Party", "Hip Hop"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Bad_Bunny_xlk4rd"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -5881,7 +5881,7 @@
     "tags": ["Latin", "Pop", "Party"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Shakira_vkuplg"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6022,7 +6022,7 @@
     "tags": ["Latin", "Reggaeton", "Party"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "J_Balvin_marbvk"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6163,7 +6163,7 @@
     "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Karol_G_kvzljd"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6305,7 +6305,7 @@
     "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Maluma_qksqzq"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6446,7 +6446,7 @@
     "tags": ["Latin", "Party", "Workout"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Daddy_Yankee_h6b57u"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6587,7 +6587,7 @@
     "tags": ["Latin", "Party"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Rosalía_xc8nwc"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6728,7 +6728,7 @@
     "tags": ["Latin", "Love"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Luis_Fonsi_cinxww"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -6869,7 +6869,7 @@
     "tags": ["Latin", "Reggaeton"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Ozuna_qqoa2n"
     },
     "likedByUsers": ["{minimal-user}"],
@@ -7010,7 +7010,7 @@
     "tags": ["Latin", "Legends"],
     "createdBy": {
       "_id": "u101",
-      "fullname": "Spotify",
+      "fullname": "Stupify",
       "imgUrl": "Selena_vmdg0r"
     },
     "likedByUsers": ["{minimal-user}"],
