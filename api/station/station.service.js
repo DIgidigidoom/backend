@@ -11,7 +11,8 @@ export const stationService = {
   addSong,
   removeSong,
   addToLikedSongs,
-  removeFromLikedSongs
+  removeFromLikedSongs,
+  reorderSongs
 }
 
 async function query(filterBy = {}) {
@@ -170,4 +171,34 @@ export async function removeFromLikedSongs(userId, songId) {
   )
 
   return station
+}
+
+async function reorderSongs(stationId, songs) {
+  const collection = await dbService.getCollection('stations')
+  const all = await collection.find({}).toArray()
+  try {
+    const collection = await dbService.getCollection('stations')
+
+    const _id = new ObjectId(stationId)
+   
+
+   
+    const allStations = await collection.find({}).toArray()
+   
+    allStations.forEach(st => console.log('-', st._id.toString()))
+
+    
+    const station = await collection.findOne({ _id })
+    if (!station) {
+      console.warn(`❌ STILL no match for _id: ${_id}`)
+      return null
+    }
+
+    await collection.updateOne({ _id }, { $set: { songs } })
+    const updatedStation = await collection.findOne({ _id })
+    return updatedStation
+  } catch (err) {
+    console.error('❌ reorderSongs failed:', err)
+    return null
+  }
 }

@@ -1,5 +1,6 @@
-import {logger} from './logger.service.js'
-import {Server} from 'socket.io'
+import { logger } from './logger.service.js'
+import { Server } from 'socket.io'
+import { stationService } from '../api/station/station.service.js'
 
 var gIo = null
 
@@ -9,7 +10,32 @@ export function setupSocketAPI(http) {
             origin: '*',
         }
     })
+
+
     gIo.on('connection', socket => {
+        socket.on('station-watch', stationId => {
+            logger.info(`Socket ${socket.id} is joining room ${stationId}`)
+            socket.join(stationId)
+        })
+
+        socket.on('station-reorder', async ({ stationId, songs }) => {
+            logger.info(`station-reorder received from socket ${socket.id} for stationId: ${stationId}`)
+
+            try {
+                const updatedStation = await stationService.reorderSongs(stationId, songs)
+
+                if (!updatedStation) {
+                    logger.warn(`⚠️ reorderSongs() returned null for stationId ${stationId}`)
+                    return
+                }
+
+                socket.to(stationId).emit('station-updated', updatedStation)
+                logger.info(`station-updated broadcasted to room ${stationId}`)
+            } catch (err) {
+                logger.error('❌ Failed to reorder songs:', err)
+            }
+        })
+
         logger.info(`New connected socket [id: ${socket.id}]`)
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
@@ -58,7 +84,7 @@ async function emitToUser({ type, data, userId }) {
     if (socket) {
         logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
         socket.emit(type, data)
-    }else {
+    } else {
         logger.info(`No active socket for user: ${userId}`)
         // _printSockets()
     }
@@ -68,7 +94,7 @@ async function emitToUser({ type, data, userId }) {
 // Optionally, broadcast to a room / to all
 async function broadcast({ type, data, room = null, userId }) {
     userId = userId.toString()
-    
+
     logger.info(`Broadcasting event: ${type}`)
     const excludedSocket = await _getUserSocket(userId)
     if (room && excludedSocket) {
@@ -110,9 +136,9 @@ export const socketService = {
     // set up the sockets service and define the API
     setupSocketAPI,
     // emit to everyone / everyone in a specific room (label)
-    emitTo, 
+    emitTo,
     // emit to a specific user (if currently active in system)
-    emitToUser, 
+    emitToUser,
     // Send to all sockets BUT not the current socket - if found
     // (otherwise broadcast to a room / to all)
     broadcast,
