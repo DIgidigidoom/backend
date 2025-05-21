@@ -142,6 +142,18 @@
     "likedByUsers": ["{minimal-user}", "{minimal-user}"],
     "songs": [
       {
+        "id": "GVcY--XzeIc",
+        "title": "Stupify ",
+        "url": "GVcY--XzeIc",
+        "imgUrl": "https://i.ytimg.com/vi/GVcY--XzeIc/mqdefault.jpg",
+        "addedBy": "{minimal-user}",
+        "likedBy": ["{minimal-user}"],
+        "addedAt": 1746986007370,
+        "artist": "Disturbed ",
+        "album": "The Sickness",
+        "duration": 407
+      },
+      {
         "id": "QkF3oxziUI4",
         "title": "Stairway to Heaven",
         "url": "QkF3oxziUI4",
