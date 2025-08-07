@@ -2,6 +2,7 @@ import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { reviewService } from '../review/review.service.js'
 import { ObjectId } from 'mongodb'
+import bcrypt from 'bcrypt'
 
 export const userService = {
     add, // Create (Signup)
@@ -10,7 +11,8 @@ export const userService = {
     remove, // Delete (remove user)
     query, // List (of users)
     getByUsername, // Used for Login
-    toggleLikedSong
+    toggleLikedSong,
+    changePassword
 }
 
 async function query(filterBy = {}) {
@@ -32,23 +34,16 @@ async function query(filterBy = {}) {
     }
 }
 
-async function getById(userId) {
+async function getById(userId, includePassword = false) {
     try {
         var criteria = { _id: ObjectId.createFromHexString(userId) }
 
         const collection = await dbService.getCollection('users')
         const user = await collection.findOne(criteria)
-        delete user.password
+        if (!includePassword) delete user.password;
         console.log(user)
 
         criteria = { byUserId: userId }
-
-        user.givenReviews = await reviewService.query(criteria)
-
-        user.givenReviews = user.givenReviews.map(review => {
-            delete review.byUser
-            return review
-        })
 
         return user
     } catch (err) {
@@ -84,15 +79,50 @@ async function update(user) {
     try {
         // peek only updatable properties
         const userToSave = {
-            _id: ObjectId.createFromHexString(user._id), // needed for the returnd obj
-            fullname: user.fullname,
+            _id: ObjectId.createFromHexString(user._id),
+        };
 
+        // Add only allowed fields
+        const allowedFields = ['fullname', 'password', 'email'];
+        for (const field of allowedFields) {
+            if (user[field] !== undefined) {
+                userToSave[field] = user[field];
+            }
         }
+
         const collection = await dbService.getCollection('users')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
-        return userToSave
+        const updatedUser = await collection.findOne({ _id: userToSave._id })
+
+        if (updatedUser.password) delete updatedUser.password
+        return updatedUser
     } catch (err) {
         logger.error(`cannot update user ${user._id}`, err)
+        throw err
+    }
+}
+
+async function changePassword(userToChange) {
+
+    try {
+        const collection = await dbService.getCollection('users')
+        const userFromDB = await collection.findOne({ _id: ObjectId.createFromHexString(userToChange._id) })
+
+        const isValid = await bcrypt.compare(userToChange.oldPassword, userFromDB.password)
+
+        if (!isValid) {
+            const err = new Error('Incorrect old password');
+            err.status = 400; 
+            throw err;
+        }
+
+        const saltRounds = 10
+        const hash = await bcrypt.hash(userToChange.newPassword, saltRounds)
+        userToChange.password = hash
+        const updatedUser = await update(userToChange)
+        return updatedUser
+    } catch (err) {
+        logger.error(`cannot change user password`, err)
         throw err
     }
 }
@@ -104,9 +134,8 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            imgUrl: user.imgUrl,
             isAdmin: user.isAdmin,
-            likedSongsIds: Array.isArray(user.likedSongsIds) ? user.likedSongsIds : [] // ✅ add this line
+            likedSongsIds: Array.isArray(user.likedSongsIds) ? user.likedSongsIds : []
         }
         const collection = await dbService.getCollection('users')
         await collection.insertOne(userToAdd)
@@ -135,31 +164,31 @@ function _buildCriteria(filterBy) {
 }
 
 export async function toggleLikedSong(userId, songId) {
-  try {
-    const collection = await dbService.getCollection('users')
-    const user = await collection.findOne({ _id: new ObjectId(userId) })
-    if (!user) throw new Error('User not found')
+    try {
+        const collection = await dbService.getCollection('users')
+        const user = await collection.findOne({ _id: new ObjectId(userId) })
+        if (!user) throw new Error('User not found')
 
-    const likedSongsIds = user.likedSongsIds || []
+        const likedSongsIds = user.likedSongsIds || []
 
-    const idx = likedSongsIds.indexOf(songId)
-    if (idx !== -1) {
-      likedSongsIds.splice(idx, 1) // Unlike
-    } else {
-      likedSongsIds.push(songId) // Like
+        const idx = likedSongsIds.indexOf(songId)
+        if (idx !== -1) {
+            likedSongsIds.splice(idx, 1) // Unlike
+        } else {
+            likedSongsIds.push(songId) // Like
+        }
+
+        await collection.updateOne(
+            { _id: new ObjectId(userId) },
+            { $set: { likedSongsIds } }
+        )
+
+        user.likedSongsIds = likedSongsIds
+        user._id = user._id.toString() // Ensure it's serialized
+
+        return user
+    } catch (err) {
+        console.error('❌ Failed to toggle liked song', err)
+        throw err
     }
-
-    await collection.updateOne(
-      { _id: new ObjectId(userId) },
-      { $set: { likedSongsIds } }
-    )
-
-    user.likedSongsIds = likedSongsIds
-    user._id = user._id.toString() // Ensure it's serialized
-
-    return user
-  } catch (err) {
-    console.error('❌ Failed to toggle liked song', err)
-    throw err
-  }
 }

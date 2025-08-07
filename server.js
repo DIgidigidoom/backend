@@ -37,12 +37,13 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 
+// app.all('*all', setupAsyncLocalStorage)
+app.use(setupAsyncLocalStorage)
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/review', reviewRoutes)
 app.use('/api/station', stationRoutes)
 app.use('/api/lyrics', lyricsRoutes)
-app.all('*all', setupAsyncLocalStorage)
 setupSocketAPI(server)
 
 // Make every unhandled server-side-route match index.html

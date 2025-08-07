@@ -1,7 +1,8 @@
-import {userService} from './user.service.js'
-import {logger} from '../../services/logger.service.js'
-import {socketService} from '../../services/socket.service.js'
+import { userService } from './user.service.js'
+import { logger } from '../../services/logger.service.js'
+import { socketService } from '../../services/socket.service.js'
 import { authService } from '../auth/auth.service.js'
+
 
 export async function getUser(req, res) {
     try {
@@ -48,28 +49,41 @@ export async function updateUser(req, res) {
     }
 }
 
+export async function changePassword(req, res) {
+    try {
+        const user = req.body;
+        logger.info('user is: ', user)
+        const savedUser = await userService.changePassword(user)
+        res.send(savedUser)
+
+    } catch (err) {
+        logger.error('Failed to change password:', err);
+        res.status(err.status || 500).send({ msg: err.message || 'Internal server error' });
+    }
+}
+
 export async function toggleLikedSong(req, res) {
-  try {
-    const loginToken = req.cookies?.loginToken
-    if (!loginToken) return res.status(401).send('User not logged in')
+    try {
+        const loginToken = req.cookies?.loginToken
+        if (!loginToken) return res.status(401).send('User not logged in')
 
-    const loggedinUser = authService.validateToken(loginToken)
-    if (!loggedinUser || !loggedinUser._id) return res.status(401).send('Invalid token')
+        const loggedinUser = authService.validateToken(loginToken)
+        if (!loggedinUser || !loggedinUser._id) return res.status(401).send('Invalid token')
 
-    const { songId } = req.body
-    const updatedUser = await userService.toggleLikedSong(loggedinUser._id, songId)
+        const { songId } = req.body
+        const updatedUser = await userService.toggleLikedSong(loggedinUser._id, songId)
 
-    // Re-issue token to keep cookie fresh (optional)
-    const newToken = authService.getLoginToken(updatedUser)
-    res.cookie('loginToken', newToken, {
-      httpOnly: true,
-      sameSite: 'Lax',
-      secure: false
-    })
+        // Re-issue token to keep cookie fresh (optional)
+        const newToken = authService.getLoginToken(updatedUser)
+        res.cookie('loginToken', newToken, {
+            httpOnly: true,
+            sameSite: 'Lax',
+            secure: false
+        })
 
-    res.json(updatedUser)
-  } catch (err) {
-    console.error('❌ toggleLikedSong failed:', err)
-    res.status(500).send('Cannot toggle liked song')
-  }
+        res.json(updatedUser)
+    } catch (err) {
+        console.error('❌ toggleLikedSong failed:', err)
+        res.status(500).send('Cannot toggle liked song')
+    }
 }
